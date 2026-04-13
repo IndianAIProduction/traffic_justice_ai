@@ -1,0 +1,60 @@
+Traffic Justice AI — Proprietary license
+
+Copyright (c) 2026 Indian AI Production
+https://indianaiproduction.com/
+
+All rights reserved.
+
+1. Who owns this work
+
+   Indian AI Production is the rights holder for this repository and its teaching
+   materials, unless a file states otherwise (for example third-party libraries
+   under their own licenses).
+
+2. What you may do without asking
+
+   You may clone, fork, and use this software for personal, non-commercial
+   learning — for example following along with courses or studying the
+   architecture on your own machine.
+
+   You may modify the code locally for practice.
+
+3. What you must keep when you share a copy or a public fork
+
+   If you publish a copy or a public fork (including under a different
+   repository name on GitHub or elsewhere), you must:
+
+   - Keep this LICENSE file in the project.
+   - Keep clear attribution that the work is **Traffic Justice AI** by
+     **Indian AI Production**, with a working link to
+     https://indianaiproduction.com/
+   - Not remove or hide the copyright and attribution blocks in the README
+     supplied with this project (you may add your own notes below them).
+
+   Renaming the GitHub repository alone does not remove the obligation to
+   retain the notices above in the files you distribute.
+
+4. What requires written permission
+
+   Any commercial use (including selling access, hosting as a paid service, or
+   redistributing as part of a commercial product) requires prior written
+   permission from Indian AI Production. Use the contact options on the
+   website above.
+
+5. No endorsement
+
+   You must not imply that Indian AI Production sponsors or endorses your
+   derivative or your teaching unless you have written permission.
+
+6. Disclaimer
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL INDIAN AI PRODUCTION BE LIABLE FOR ANY CLAIM OR
+   DAMAGES ARISING FROM USE OF THIS SOFTWARE.
+
+   Application outputs are not legal advice; see the project README.
+
+---
+
+This text is intended to set expectations for learners and mirrors. It is not a
+substitute for legal counsel in your jurisdiction.

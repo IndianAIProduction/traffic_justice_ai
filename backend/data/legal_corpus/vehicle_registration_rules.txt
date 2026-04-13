@@ -1,0 +1,321 @@
+VEHICLE REGISTRATION RULES AND PROCEDURES — COMPREHENSIVE GUIDE
+(Based on Motor Vehicles Act 1988, CMVR 1989, and State-specific Rules)
+Applicable Across All Indian States and Union Territories
+
+## PART A — NEW VEHICLE REGISTRATION
+
+### Step 1: Purchase and Temporary Registration
+(1) Upon purchasing a new vehicle from an authorised dealer:
+    (a) Dealer provides: Sale invoice, Form 20 (application for registration), Form 21 (sale certificate), Form 22 (roadworthiness certificate from manufacturer)
+    (b) Dealer arranges temporary registration (valid for 1 month)
+    (c) Temporary registration plate: White background with red lettering, format: "TR" + dealer code + serial number
+    (d) Temporary registration allows transit from dealer to owner's address and to RTO
+
+### Step 2: Documents Required for Registration
+Mandatory documents:
+1. Form 20 — Application for registration (filled by owner)
+2. Form 21 — Sale certificate from dealer/manufacturer
+3. Form 22 — Roadworthiness certificate from manufacturer
+4. Invoice/Sale receipt (original)
+5. Insurance certificate (minimum third-party; comprehensive recommended)
+6. PAN card or Form 60/61 (mandatory for vehicles costing more than Rs 10 lakhs)
+7. Address proof (Aadhaar card, passport, voter ID, utility bill)
+8. Identity proof (Aadhaar, PAN, passport)
+9. Road tax payment receipt
+10. Passport-size photographs (2-4 copies)
+11. HSRP order confirmation (High Security Registration Plate)
+12. Pollution Under Control (PUC) certificate — for BS-VI vehicles, first PUC after 1 year
+
+Additional for transport vehicles:
+13. Fitness certificate
+14. Permit (if applicable)
+15. Goods Tax payment receipt (for goods vehicles in applicable states)
+
+### Step 3: Registration Process
+Online (via Vahan portal — vahan.parivahan.gov.in):
+1. Dealer initiates online registration through Vahan dealer module
+2. Owner's details entered and documents uploaded
+3. Road tax calculated and paid online
+4. RTO slot booked for vehicle inspection (if required)
+5. Registration number assigned
+6. HSRP ordered and fitted
+7. Smart card RC dispatched
+
+Offline:
+1. Visit RTO with all documents
+2. Submit forms and pay fees at counter
+3. Vehicle inspection at RTO (verification of chassis/engine number)
+4. Registration number assigned
+5. RC issued (smart card sent by post; acknowledgement given immediately)
+
+### Step 4: Registration Charges (Approximate)
+Component | Amount
+Registration fee (two-wheeler) | Rs 300-600
+Registration fee (four-wheeler) | Rs 600-1,500
+Road tax (varies by state) | 2-20% of vehicle value
+HSRP charges (two-wheeler) | Rs 400-600
+HSRP charges (four-wheeler) | Rs 600-1,100
+Smart card RC fee | Rs 200
+Hypothecation endorsement | Rs 500 (if vehicle on loan)
+Total (approximate for car): Rs 5,000-15,000 + road tax
+
+## PART B — ROAD TAX BY STATE
+
+Road tax is the largest component of registration cost. It varies significantly by state.
+
+### Road Tax Rates (Personal Four-Wheeler — Approximate)
+
+Delhi: 4-12.5% of vehicle cost (based on price slab)
+- Up to Rs 6 lakhs: 4%
+- Rs 6-10 lakhs: 7%
+- Above Rs 10 lakhs: 10%
+- Diesel vehicles: Additional 2.5% surcharge
+
+Maharashtra: Lifetime road tax based on vehicle cost and fuel type
+- Petrol car up to Rs 10 lakhs: ~10-11%
+- Petrol car above Rs 10 lakhs: ~12-13%
+- Diesel vehicles: Additional 2-3%
+- EV: Exempted or nominal (Rs 500-2,000)
+
+Karnataka: Lifetime road tax
+- Up to Rs 5 lakhs: 13%
+- Rs 5-10 lakhs: 14%
+- Rs 10-20 lakhs: 17%
+- Above Rs 20 lakhs: 18%
+
+Tamil Nadu: Lifetime road tax
+- Up to Rs 5 lakhs: ~6%
+- Rs 5-10 lakhs: ~8%
+- Above Rs 10 lakhs: ~10-12%
+
+Uttar Pradesh: Lifetime road tax
+- Petrol vehicles: 8-10% based on engine capacity
+- Diesel vehicles: 8-10% + surcharge
+- CNG/LPG vehicles: Reduced rate
+
+Gujarat: One-time road tax
+- Two-wheelers: 6% for first 7 years
+- Four-wheelers: 6-7%
+- Higher rates for luxury vehicles
+
+Kerala: Lifetime road tax
+- Motor cars: 6% of purchase price
+- Larger vehicles: Higher rates
+
+Rajasthan: Lifetime / periodic road tax
+- Small cars (up to 800cc): 5%
+- Medium cars: 6-8%
+- Large cars/SUVs: 8-10%
+
+West Bengal: Annual road tax
+- Two-wheelers: Rs 350-750 per year
+- Cars: Rs 1,000-5,000 per year based on engine capacity
+- Can be paid quarterly/annually
+
+Andhra Pradesh and Telangana: Lifetime road tax
+- Petrol cars: 12-14%
+- Diesel cars: 14-16%
+- EVs: Exempted until 2025
+
+Punjab and Haryana: Lifetime road tax
+- Cars: 6-9% based on vehicle value
+- Two-wheelers: 5-7%
+
+Note: Road tax rates change frequently. Check state transport website for current rates.
+
+### Two-Wheeler Road Tax (Approximate Range)
+Most states: 4-12% of vehicle value (lifetime tax)
+Some states (West Bengal): Annual tax Rs 350-750
+
+### Electric Vehicle Road Tax Exemptions
+Many states offer full or partial road tax exemption for EVs:
+- Delhi: Road tax exemption for battery EVs
+- Maharashtra: Exemption for first 5 years
+- Gujarat: Road tax exemption
+- Karnataka: Exemption for EVs
+- Telangana: 100% exemption until 2025
+- Uttar Pradesh: Exemption for first 5 years
+- Rajasthan: 100% exemption
+
+## PART C — TRANSFER OF VEHICLE OWNERSHIP
+
+### When Required
+- Sale of vehicle to another person
+- Gift/inheritance of vehicle
+- Transfer from deceased owner's name to legal heir
+- Transfer between family members
+
+### Documents Required
+From seller (transferor):
+1. Form 29 — Notice of transfer of ownership (signed by seller)
+2. Form 30 — Application for transfer (signed by both)
+3. Original RC (Registration Certificate)
+4. Valid insurance certificate
+5. Valid PUC certificate
+6. NOC from financier (if vehicle under loan/hypothecation)
+7. ID proof of seller
+8. Delivery note from seller
+
+From buyer (transferee):
+1. Form 30 — signed by buyer
+2. Address proof
+3. ID proof
+4. Passport-size photographs
+5. New insurance in buyer's name (or endorsement of existing policy)
+
+### Process
+1. Both parties sign Form 29 and Form 30
+2. Within 14 days, transferor intimates RTO of transfer (Form 29)
+3. Transferee applies to RTO for transfer (Form 30) within 14 days
+4. Transferee pays transfer fee (Rs 500-2,000 depending on vehicle type and state)
+5. RTO updates records and issues new RC in transferee's name (or endorsement on existing RC)
+
+### Transfer Fee
+Two-wheeler: Rs 300-500
+Four-wheeler (non-transport): Rs 500-1,500
+Commercial vehicles: Rs 1,000-3,000
+Note: Varies by state
+
+### Important Notes
+- Failure to intimate transfer within 14 days: Fine up to Rs 5,000
+- Seller remains liable for violations committed with the vehicle until transfer is recorded
+- Insurance must be transferred or new insurance obtained
+- If transferee is in a different state, NOC required for inter-state transfer
+
+## PART D — INTER-STATE TRANSFER (NOC)
+
+### When Required
+When a vehicle registered in one state is being permanently relocated to another state.
+
+### Procedure
+Step 1: Obtain NOC from original state
+- Apply at the RTO where vehicle is registered
+- Submit: Application in Form 28, original RC, address proof of new state, valid insurance, valid PUC, road tax receipt
+- RTO issues NOC after verifying no pending dues/challans
+- NOC valid for 6 months
+
+Step 2: Re-register in new state
+- Visit RTO in new state within 6 months of NOC issuance
+- Submit: NOC, original RC, Form 20 (new registration application), address proof, insurance, PUC
+- Pay road tax of new state (original state may refund pro-rata — varies)
+- New registration number assigned (new state's code)
+- HSRP fitted with new number
+- New smart card RC issued
+
+### BH (Bharat) Series Registration
+Introduced in 2021, BH series eliminates need for re-registration when moving states.
+- Eligible: Defence personnel, Central/State government employees, PSU employees, and private sector employees of companies with offices in 4+ states
+- Format: YY BH XXXX (e.g., 22 BH 1234 AB)
+- Motor vehicle tax: 2-year based (paid every 2 years at 8-12% based on vehicle cost)
+- No NOC required for state transfer
+- Available via Vahan portal during registration
+- Green background BH plates for EVs
+
+## PART E — HYPOTHECATION (LOAN VEHICLES)
+
+### Registration with Hypothecation
+When a vehicle is purchased on loan, hypothecation (HP) is endorsed on the RC in the financier's name.
+- RC shows: "Hypothecated to [Bank/NBFC name]"
+- Owner cannot sell/transfer without financier's NOC
+
+### Termination of Hypothecation
+After loan repayment:
+1. Obtain Form 35 (NOC for HP termination) from bank/financier
+2. Apply to RTO for HP termination
+3. Submit: Form 35, original RC, loan closure letter
+4. RTO removes HP endorsement from RC
+5. Fee: Rs 200-500
+
+### Continuation of Hypothecation
+When vehicle is sold with existing loan:
+1. Loan transferred to new buyer
+2. HP endorsement updated with new owner's name
+3. Financier's consent required
+
+## PART F — DUPLICATE / REPLACEMENT RC
+
+### When Needed
+- RC lost or stolen
+- RC damaged or illegible
+- RC details need correction
+
+### Process
+1. File FIR (for lost/stolen RC) at nearest police station
+2. Publish advertisement in local newspaper stating loss of RC
+3. Apply at RTO: Form 26 (application for duplicate RC)
+4. Submit: FIR copy, newspaper cutting, affidavit, insurance copy, address proof
+5. Fee: Rs 300-500
+6. Duplicate RC issued within 30 days
+
+## PART G — FANCY / CHOICE NUMBER
+
+### Availability
+Most RTOs offer choice/fancy registration numbers through auction or fixed fee.
+
+### Categories
+1. VIP numbers (0001, 0786, 9999, etc.): Auction — Rs 25,000 to Rs 25 lakhs+
+2. Semi-fancy numbers (specific digits): Fixed fee or auction
+3. Regular choice: Minor premium over random number
+
+### Process
+1. During registration on Vahan portal, select "Choice Number"
+2. View available numbers and prices
+3. Pay additional fee for selected number
+4. Number reserved upon payment
+
+## PART H — VEHICLE FITNESS AND RENEWAL OF REGISTRATION
+
+### Non-Transport Vehicles
+- Registration valid for 15 years
+- After 15 years: Must pass fitness test for renewal
+- Renewal period: 5 years at a time after initial 15 years
+- Fitness test: Automated testing at authorised centres
+- If vehicle fails fitness: Must repair and re-test, or scrap
+
+### Transport Vehicles
+- Initial fitness certificate: Valid for 2 years from registration
+- Renewal: Every 1 year thereafter
+- Fitness test: Comprehensive — brakes, steering, lights, emissions, body condition
+- Automated fitness centres being established nationwide
+
+### Vehicle Scrapping (End of Life)
+- Government vehicles: Must be scrapped after 15 years
+- Private vehicles: After 20 years if failing fitness test
+- Commercial vehicles: After 15 years if failing fitness test
+- Benefits of scrapping: Rebate on new vehicle (up to 25% of ex-showroom price)
+
+## PART I — COMMON REGISTRATION PROBLEMS AND SOLUTIONS
+
+### Problem: Dealer delaying registration
+Solution: 
+1. Dealer must complete registration within 7 days of sale
+2. Complain to RTO if delayed
+3. File complaint on Vahan portal
+4. Consumer court complaint if persistent delay
+
+### Problem: Wrong details on RC
+Solution:
+1. Apply for correction at RTO with supporting documents
+2. No fee if error is RTO's fault
+3. Minor correction fee if owner's error
+
+### Problem: Vehicle stolen — what to do
+Solution:
+1. File FIR immediately at nearest police station
+2. Inform RTO in writing
+3. Inform insurance company within specified time
+4. RTO marks vehicle as stolen in Vahan database
+5. Insurance claim for vehicle theft (if comprehensive insurance)
+
+### Problem: Pending challans blocking transfer/NOC
+Solution:
+1. Pay all pending challans
+2. Challans can be paid online through state e-challan portal
+3. After payment, re-apply for transfer/NOC
+
+### Problem: Hypothecation not removed after loan closure
+Solution:
+1. Contact bank for Form 35 / NOC
+2. RBI guidelines require banks to issue NOC within 14 days of loan closure
+3. If bank delays: File complaint with Banking Ombudsman
+4. Apply to RTO with available documents and bank correspondence

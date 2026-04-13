@@ -1,0 +1,122 @@
+{
+  "state": "Kerala",
+  "description": "Kerala follows central fine rates with most provisions as per MV Act 2019",
+  "effective_date": "2019-09-01",
+  "source": "Kerala Motor Vehicles Department",
+  "confidence": "high",
+  "notes": "Kerala largely follows central rates. Strict enforcement especially for drunken driving.",
+  "sections": {
+    "177": {
+      "offense": "General offenses",
+      "first_offense": 500,
+      "repeat": 1500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Central rates"
+    },
+    "179": {
+      "offense": "Disobedience of orders",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": "Up to 6 months",
+      "license_action": null,
+      "notes": "Central rates"
+    },
+    "181": {
+      "offense": "Driving without valid driving licence",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Central rates"
+    },
+    "183": {
+      "offense": "Exceeding speed limit (LMV)",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": null,
+      "license_action": "Seizure of licence for repeat",
+      "notes": "AI-based speed cameras on NH 66, NH 544"
+    },
+    "184": {
+      "offense": "Dangerous driving",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": null,
+      "notes": "Strict enforcement on ghat roads"
+    },
+    "185": {
+      "offense": "Drunken driving",
+      "first_offense": 10000,
+      "repeat": 15000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": "Suspension/cancellation",
+      "notes": "Very strictly enforced in Kerala, especially during Onam and Christmas"
+    },
+    "192": {
+      "offense": "Using vehicle without registration",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 year",
+      "license_action": null,
+      "notes": "Central rates"
+    },
+    "194": {
+      "offense": "Driving without insurance",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Central rates"
+    },
+    "194A": {
+      "offense": "Not wearing seatbelt",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Enforced for rear seat passengers too"
+    },
+    "194B": {
+      "offense": "Riding without helmet",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": "3-month licence suspension",
+      "notes": "Strictly enforced across the state"
+    },
+    "194C": {
+      "offense": "Not giving way to emergency vehicles",
+      "first_offense": 10000,
+      "repeat": 10000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "194D": {
+      "offense": "Using mobile phone while driving",
+      "first_offense": 5000,
+      "repeat": 5000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Strictly enforced"
+    },
+    "194F": {
+      "offense": "Overloading two-wheeler",
+      "first_offense": 2000,
+      "repeat": 2000,
+      "imprisonment": "Up to 3 months (repeat)",
+      "license_action": "3-month suspension",
+      "notes": null
+    },
+    "199": {
+      "offense": "Juvenile driving",
+      "first_offense": 25000,
+      "repeat": null,
+      "imprisonment": "Up to 3 years for guardian",
+      "license_action": "Vehicle registration cancelled",
+      "notes": null
+    }
+  }
+}

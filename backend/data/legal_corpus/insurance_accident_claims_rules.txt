@@ -1,0 +1,359 @@
+MOTOR VEHICLE INSURANCE AND ACCIDENT CLAIMS — COMPREHENSIVE GUIDE
+(Based on Motor Vehicles Act 1988 (Chapter XI & XII), IRDAI Regulations, and Supreme Court Guidelines)
+
+## PART A — TYPES OF MOTOR VEHICLE INSURANCE
+
+### 1. Third-Party Liability Insurance (Mandatory)
+Coverage:
+- Death or bodily injury to any third party (not the insured driver)
+- Damage to third-party property (limit: Rs 7.5 lakhs per incident as per IRDAI)
+- Legal liability of the insured vehicle owner
+Not covered:
+- Damage to own vehicle
+- Personal injury to the driver/owner
+- Theft of own vehicle
+Premium: Fixed by IRDAI annually (not negotiable)
+Validity: 1 year (must be renewed annually; 3-year TP cover for new cars available; 5-year for two-wheelers)
+
+### 2. Comprehensive Insurance (Optional but Recommended)
+Coverage:
+- All of third-party coverage
+- Damage to own vehicle due to: Accident, fire, theft, natural calamity, riot, terrorism
+- Personal accident cover for owner-driver (Rs 15 lakhs mandatory)
+Additional covers (add-on):
+- Zero depreciation
+- Engine protection
+- Road side assistance
+- Return to invoice
+- NCB (No Claim Bonus) protection
+- Key and lock replacement
+- Consumables cover
+- Tyre protection
+- Passenger personal accident cover
+Premium: TP portion fixed by IRDAI + OD (own damage) portion varies by insurer
+Validity: 1 year
+
+### 3. Standalone Own Damage (OD) Policy
+Available for: Vehicle owners who have separate TP policy
+Coverage: Only own damage to vehicle
+Premium: Varies by insurer, vehicle age, IDV (Insured Declared Value)
+
+### 4. Pay-As-You-Drive (PAYG) Insurance
+New option: Premium linked to actual distance driven
+Available from: Select insurers
+Benefits: Lower premium for low-usage vehicles
+
+## PART B — KEY INSURANCE CONCEPTS
+
+### Insured Declared Value (IDV)
+- Maximum amount payable in case of total loss / theft
+- Calculated as: Manufacturer's listed selling price minus depreciation
+- Depreciation schedule:
+  Vehicle age | Depreciation
+  Up to 6 months | 5%
+  6 months to 1 year | 15%
+  1-2 years | 20%
+  2-3 years | 30%
+  3-4 years | 40%
+  4-5 years | 50%
+  Above 5 years | As per agreement between insurer and insured
+
+### No Claim Bonus (NCB)
+- Discount on OD premium for each claim-free year
+- NCB schedule:
+  After 1 claim-free year | 20%
+  After 2 claim-free years | 25%
+  After 3 claim-free years | 35%
+  After 4 claim-free years | 45%
+  After 5+ claim-free years | 50%
+- NCB belongs to the owner, not the vehicle
+- NCB can be transferred to new vehicle
+- NCB lost if claim is made during the year
+
+### Deductible / Excess
+- Compulsory deductible: Rs 1,000 (two-wheeler), Rs 2,000 (four-wheeler) — amount you pay from own pocket per claim
+- Voluntary deductible: Additional amount you agree to pay (Rs 2,500 to Rs 15,000) in exchange for lower premium
+
+## PART C — FILING AN INSURANCE CLAIM
+
+### Claim Process for Own Damage
+1. Intimate the insurance company immediately:
+   - Through app, website, toll-free number, or email
+   - Within 24 hours of incident (preferred; delay may cause scrutiny but cannot be sole ground for rejection)
+2. File FIR if: theft, third-party involvement, hit-and-run, or major accident
+3. Get survey done: Insurance company appoints a surveyor to assess damage
+4. Get vehicle repaired: At network garage (cashless) or any garage (reimbursement)
+5. Submit documents: Claim form, RC copy, DL copy, FIR (if applicable), repair bills, photographs
+6. Claim settlement: Within 30 days of receiving all documents (as per IRDAI guidelines)
+
+### Claim Process for Third-Party Liability
+1. Third party (victim) or their representative files claim before MACT
+2. Insurance company is made a party to the proceedings
+3. MACT awards compensation
+4. Insurance company pays as per tribunal order
+5. Insurance company may recover from insured if policy conditions were violated (e.g., unlicensed driver)
+
+### Documents Required for Claim
+For accident:
+1. Claim form (insurance company's format)
+2. RC copy
+3. DL copy of driver at time of accident
+4. FIR copy / police complaint
+5. Photographs of damaged vehicle
+6. Repair estimate and bills
+7. Medical bills (for personal accident claims)
+8. Policy copy
+
+For theft:
+1. FIR copy
+2. Final police report (non-traceable report) — typically after 3-6 months of investigation
+3. RC original
+4. All keys of the vehicle
+5. Claim form
+6. Policy copy
+7. NOC from financier (if hypothecated)
+
+## PART D — MOTOR ACCIDENT CLAIMS TRIBUNAL (MACT)
+
+### What is MACT
+- Established under Section 165 of MV Act
+- Special tribunal for deciding motor accident compensation claims
+- Presided by a District Judge-level officer
+- No court fee for filing
+- Relatively faster than civil courts
+
+### Who Can File
+1. Injured person
+2. Legal representative of deceased person
+3. Agent or attorney of claimant
+4. Owner of property damaged in accident (for property damage claims)
+
+### Jurisdiction
+MACT has jurisdiction where:
+(a) The accident occurred, OR
+(b) The claimant resides, OR
+(c) The defendant (vehicle owner/driver/insurer) resides
+Choice of jurisdiction lies with the claimant.
+
+### Procedure
+1. File application before MACT (Form prescribed by High Court)
+2. MACT issues notice to:
+   - Vehicle owner
+   - Vehicle driver
+   - Insurance company
+3. Respondents file written statement / defence
+4. Evidence is recorded:
+   - Medical reports
+   - Income proof
+   - Eyewitness testimony
+   - Police investigation report (MVI report)
+   - Photographs, CCTV footage
+5. Arguments by both sides
+6. MACT passes award with compensation amount
+7. Appeal: To High Court within 90 days of MACT order
+
+### Compensation Calculation — Supreme Court Guidelines
+
+#### For Death Cases
+Based on Sarla Verma v. Delhi Transport Corporation (2009) and National Insurance Co. v. Pranay Sethi (2017):
+
+Multiplier based on age of deceased:
+Age of deceased | Multiplier
+15-20 years | 18
+21-25 years | 17
+26-30 years | 16
+31-35 years | 15
+36-40 years | 14
+41-45 years | 13
+46-50 years | 12
+51-55 years | 11
+56-60 years | 10
+61-65 years | 8
+66-70+ years | 5
+
+Compensation formula:
+Annual income × Multiplier = Loss of dependency
+Plus fixed amounts (as per Pranay Sethi):
+- Funeral expenses: Rs 15,000
+- Loss of consortium: Rs 40,000
+- Loss of estate: Rs 15,000
+- Filial consortium (loss of love of parent for minor child): Rs 40,000
+
+Income considerations:
+- Actual income at time of death (with documentary proof)
+- 40% increase for future prospects (if deceased was below 40 years, salaried)
+- 25% increase for future prospects (if deceased was 40-50 years, salaried)
+- For self-employed: Future prospects allowed if income is established
+- Deduction for personal expenses of deceased: 1/3 (if spouse + children), 1/4 (if spouse + children + dependent parents), 1/2 (if only spouse)
+
+#### For Injury Cases
+Compensation includes:
+1. Medical expenses (past and future)
+2. Loss of income during treatment/recovery
+3. Loss of earning capacity (percentage disability × income × multiplier)
+4. Pain and suffering (lump sum — Rs 50,000 to Rs 10 lakhs depending on severity)
+5. Attendant charges
+6. Transport charges for treatment
+7. Special diet/nutrition
+8. Prosthetics, aids, and appliances
+9. Future medical expenses
+10. Loss of amenities of life
+
+### Structured Settlement
+- MACT may order payment in instalments
+- Interest on compensation: Typically 7.5-9% per annum from date of filing
+- Payment deposit by insurer within 30 days of order
+
+## PART E — HIT AND RUN COMPENSATION
+
+### Under Section 161, MV Act (2019 Amendment)
+(1) Death: Rs 2,00,000
+(2) Grievous hurt: Rs 50,000
+(Previously: Rs 25,000 for death and Rs 12,500 for grievous hurt — enhanced by 2019 amendment)
+
+### Who Pays
+- Central Government through Solatium Fund
+- Fund maintained from contributions by insurance companies
+
+### Process
+1. File FIR at nearest police station
+2. Apply to Claims Enquiry Officer (CEO) appointed by District Collector
+3. Submit: Application form, FIR copy, medical report, post-mortem report (for death), hospital records
+4. CEO enquires into the claim
+5. CEO submits report to Claims Settlement Commissioner
+6. Commissioner awards compensation
+7. Payment within 30 days of order
+
+### Time Limit
+- Application within 6 months of accident
+- Extendable by CEO for "sufficient cause" (courts have been liberal)
+
+### Additional MACT Claim
+- Hit-and-run compensation under Section 161 is in ADDITION to any MACT claim
+- If offending vehicle is later identified, full MACT compensation can be claimed
+- Section 161 amount is adjusted against MACT award
+
+## PART F — INSURANCE DISPUTES AND REMEDIES
+
+### 1. Insurance Ombudsman
+- Jurisdiction: Claims up to Rs 30 lakhs
+- Free of cost service
+- 17 Insurance Ombudsman offices across India
+- Complaint within 1 year of insurer's final decision
+- Ombudsman decides within 3 months
+- Decision binding on insurer (up to Rs 30 lakhs)
+- Complainant can accept or reject (if rejects, can approach court)
+
+Ombudsman offices: Mumbai, Delhi, Kolkata, Chennai, Bengaluru, Hyderabad, Ahmedabad, Chandigarh, Jaipur, Lucknow, Pune, Bhopal, Bhubaneswar, Guwahati, Kochi, Noida, Patna
+
+### 2. IRDAI Complaint
+- File through IGMS portal (igms.irda.gov.in)
+- IRDAI ensures insurer responds within 15 days
+- Escalation option if insurer doesn't respond
+
+### 3. Consumer Commission
+- District Commission: Claims up to Rs 1 crore
+- State Commission: Rs 1 crore to Rs 10 crores
+- National Commission: Above Rs 10 crores
+- Time limit: 2 years from cause of action
+- No lawyer required (can argue personally)
+- Nominal court fee
+
+### 4. Civil Court
+- For claims not covered by other forums
+- Higher court fees and longer procedure
+- Generally not preferred for insurance disputes
+
+## PART G — IMPORTANT SUPREME COURT JUDGMENTS ON MOTOR INSURANCE
+
+### 1. National Insurance Co. v. Swaran Singh (2004)
+Held: If owner's vehicle is driven by an unlicensed driver and accident occurs:
+- Insurer must pay third-party claim first
+- Insurer can recover from the insured owner later
+- Third party's right to compensation cannot be denied due to policy breach by insured
+
+### 2. Sarla Verma v. Delhi Transport Corporation (2009)
+Held: Standardised multiplier table for compensation calculation based on age of deceased
+Established structured formula for death compensation cases
+
+### 3. National Insurance Co. v. Pranay Sethi (2017)
+Held: Fixed amounts for conventional heads of compensation:
+- Funeral expenses: Rs 15,000
+- Consortium: Rs 40,000
+- Estate: Rs 15,000
+- Enhanced future prospects calculation
+
+### 4. Bajaj Allianz v. Rambha Devi (2020)
+Held: Insurance company cannot deny cashless treatment during Golden Hour
+Medical expenses during first hour after accident must be covered
+
+### 5. Oriental Insurance v. Prithvi Raj (2020)
+Held: Minor breach of policy condition (like driving without glasses when prescribed) does not void the policy entirely for third-party claims
+
+### 6. New India Assurance v. Sadanand Mukhi (2009)
+Held: Non-intimation of accident within specified period is not absolute ground for claim rejection
+Delay must be considered with its cause
+
+## PART H — GOLDEN HOUR TREATMENT
+
+### Section 162, MV Act (amended 2019)
+1. During golden hour (first hour after accident), cashless treatment at ANY hospital (government or private)
+2. Hospital cannot refuse treatment
+3. Hospital cannot demand advance payment
+4. Treatment cost reimbursed from Motor Vehicle Accident Fund
+5. Good Samaritan (anyone who helps) is protected from civil/criminal liability
+6. Good Samaritan cannot be compelled to be witness
+7. Police cannot detain or question Good Samaritan at hospital
+
+### Motor Vehicle Accident Fund (Section 164B)
+- Maintained by Central Government
+- Funded from: Road cess, fine collection, penalties, insurance premium surcharge
+- Used for: Golden hour treatment, hit-and-run compensation, compensation for no-insurance accidents
+- Administered by General Insurance Corporation of India (GIC Re) as trustee
+
+## PART I — THIRD-PARTY INSURANCE PREMIUM RATES (IRDAI — Current)
+
+### Two-Wheelers
+Engine capacity | Annual TP Premium
+Up to 75cc | Rs 538
+75cc-150cc | Rs 714
+150cc-350cc | Rs 1,366
+Above 350cc | Rs 2,804
+
+### Private Cars
+Engine capacity | Annual TP Premium
+Up to 1000cc | Rs 2,094
+1000cc-1500cc | Rs 3,416
+Above 1500cc | Rs 7,897
+
+### Commercial Vehicles
+Varies widely based on vehicle type, GVW, and zone.
+GCV (up to 7500 kg GVW): Rs 16,049
+GCV (7500-12000 kg GVW): Rs 26,103
+GCV (above 40000 kg GVW): Rs 42,498
+
+Note: TP premium rates are revised by IRDAI annually. Check IRDAI website for current rates.
+
+### Electric Vehicles
+- 15% discount on TP premium for EVs (applicable since 2019)
+- Additional OD discount available from many insurers
+
+## PART J — FREQUENTLY ASKED QUESTIONS
+
+Q: Can I drive with expired insurance?
+A: No. Driving without valid insurance is an offence under Section 196. Fine: Rs 2,000 (first offence), Rs 4,000 (repeat) + possible imprisonment up to 3 months. Vehicle can be impounded.
+
+Q: Can insurance company reject claim if my licence was expired by a few days?
+A: Courts have held that minor/technical breach of licence validity (few days/weeks expiry) does not void the policy, especially if driver was otherwise competent. However, this is decided case by case. Best to keep licence valid.
+
+Q: What if accident happens while someone else is driving my vehicle?
+A: If the driver had a valid licence, the insurance covers. If driver had no valid licence, insurer may reject own damage claim but must pay third-party claims (and recover from you).
+
+Q: Is third-party insurance mandatory for e-scooters/e-bikes?
+A: Yes, for all motor vehicles used in public places, including electric vehicles. Even low-speed EVs (up to 25 km/h) need insurance.
+
+Q: Can I get insurance for a vehicle without registration?
+A: New vehicles get temporary insurance before registration. But to continue, the vehicle must be registered. Insurance for unregistered vehicles (other than during transit) is not available.
+
+Q: What happens if the other driver's insurance has lapsed?
+A: You can still claim from the other driver's insurer (if policy was active at accident time). If no insurance at all, claim through MACT against the driver/owner personally, and from Motor Vehicle Accident Fund.

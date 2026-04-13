@@ -1,0 +1,24 @@
+{
+  "state": "Rajasthan",
+  "description": "Rajasthan partially reduced fine rates from central MV Act 2019",
+  "effective_date": "2019-10-01",
+  "source": "Rajasthan Transport Department",
+  "confidence": "high",
+  "notes": "Rajasthan reduced some key fines while keeping serious offence penalties at central rates.",
+  "sections": {
+    "177": { "offense": "General offenses", "first_offense": 300, "repeat": 750, "imprisonment": null, "license_action": null, "notes": "Reduced from central Rs 500/1500" },
+    "179": { "offense": "Disobedience of orders", "first_offense": 1500, "repeat": 3000, "imprisonment": "Up to 6 months", "license_action": null, "notes": "Reduced from central Rs 2000/4000" },
+    "181": { "offense": "Driving without licence", "first_offense": 3000, "repeat": null, "imprisonment": "Up to 3 months", "license_action": null, "notes": "Reduced from central Rs 5000" },
+    "183": { "offense": "Exceeding speed limit (LMV)", "first_offense": 1500, "repeat": 3000, "imprisonment": null, "license_action": "Seizure for repeat", "notes": "Reduced from central Rs 2000/4000" },
+    "184": { "offense": "Dangerous driving", "first_offense": 3000, "repeat": 7500, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": "Reduced from central Rs 5000/10000" },
+    "185": { "offense": "Drunken driving", "first_offense": 7500, "repeat": 12000, "imprisonment": "Up to 6 months / 2 years", "license_action": "Suspension", "notes": "Reduced from central Rs 10000/15000" },
+    "192": { "offense": "No registration", "first_offense": 3000, "repeat": 7500, "imprisonment": "Up to 1 year", "license_action": null, "notes": "Reduced from central Rs 5000/10000" },
+    "194": { "offense": "No insurance", "first_offense": 1500, "repeat": 3000, "imprisonment": "Up to 3 months", "license_action": null, "notes": "Reduced from central Rs 2000/4000" },
+    "194A": { "offense": "No seatbelt", "first_offense": 500, "repeat": 500, "imprisonment": null, "license_action": null, "notes": "Reduced from central Rs 1000" },
+    "194B": { "offense": "No helmet", "first_offense": 500, "repeat": 1000, "imprisonment": null, "license_action": "3-month suspension for repeat", "notes": "Reduced from central Rs 1000" },
+    "194C": { "offense": "Not giving way to emergency vehicles", "first_offense": 7500, "repeat": 7500, "imprisonment": null, "license_action": null, "notes": "Reduced from central Rs 10000" },
+    "194D": { "offense": "Mobile phone use", "first_offense": 1000, "repeat": 2000, "imprisonment": null, "license_action": null, "notes": "Reduced from central Rs 5000" },
+    "194F": { "offense": "Overloading two-wheeler", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": "3-month suspension", "notes": "Reduced from central Rs 2000" },
+    "199": { "offense": "Juvenile driving", "first_offense": 25000, "repeat": null, "imprisonment": "Up to 3 years", "license_action": "RC cancelled", "notes": "Central rates apply" }
+  }
+}

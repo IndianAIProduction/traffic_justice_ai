@@ -1,0 +1,21 @@
+{
+  "state": "Odisha",
+  "description": "Odisha partially reduced fine rates from central MV Act 2019",
+  "effective_date": "2019-10-01",
+  "source": "Odisha Transport Department",
+  "confidence": "high",
+  "notes": "Odisha made moderate reductions to key fines.",
+  "sections": {
+    "177": { "offense": "General offenses", "first_offense": 200, "repeat": 500, "imprisonment": null, "license_action": null, "notes": "Reduced from central Rs 500/1500" },
+    "179": { "offense": "Disobedience of orders", "first_offense": 1000, "repeat": 2000, "imprisonment": "Up to 6 months", "license_action": null, "notes": "Reduced" },
+    "181": { "offense": "Driving without licence", "first_offense": 2500, "repeat": null, "imprisonment": "Up to 3 months", "license_action": null, "notes": "Reduced from Rs 5000" },
+    "183": { "offense": "Exceeding speed limit", "first_offense": 1000, "repeat": 2000, "imprisonment": null, "license_action": "Seizure for repeat", "notes": "Reduced" },
+    "184": { "offense": "Dangerous driving", "first_offense": 2500, "repeat": 5000, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": "Reduced" },
+    "185": { "offense": "Drunken driving", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 6 months / 2 years", "license_action": "Suspension", "notes": "Reduced" },
+    "194": { "offense": "No insurance", "first_offense": 1000, "repeat": 2000, "imprisonment": "Up to 3 months", "license_action": null, "notes": "Reduced" },
+    "194A": { "offense": "No seatbelt", "first_offense": 500, "repeat": 500, "imprisonment": null, "license_action": null, "notes": "Reduced" },
+    "194B": { "offense": "No helmet", "first_offense": 500, "repeat": 1000, "imprisonment": null, "license_action": "3-month suspension", "notes": "Reduced from Rs 1000" },
+    "194D": { "offense": "Mobile phone use", "first_offense": 2500, "repeat": 5000, "imprisonment": null, "license_action": null, "notes": "Reduced" },
+    "199": { "offense": "Juvenile driving", "first_offense": 25000, "repeat": null, "imprisonment": "Up to 3 years", "license_action": "RC cancelled", "notes": "Central rates" }
+  }
+}

@@ -1,0 +1,367 @@
+STATE-SPECIFIC RTO RULES — EAST, NORTHEAST AND CENTRAL INDIA
+Covers: West Bengal, Bihar, Jharkhand, Odisha, Andaman & Nicobar, Madhya Pradesh, Chhattisgarh,
+Assam, Meghalaya, Tripura, Mizoram, Manipur, Nagaland, Arunachal Pradesh, Sikkim
+
+## WEST BENGAL
+
+### West Bengal Motor Vehicles Tax Act, 1979
+Road tax: ANNUAL system (different from most states which have one-time/lifetime tax)
+- Two-wheelers up to 90cc: Rs 350/year
+- Two-wheelers 90-170cc: Rs 500/year
+- Two-wheelers above 170cc: Rs 750/year
+- Cars up to 900cc: Rs 1,700/year
+- Cars 900-1490cc: Rs 2,900/year
+- Cars 1490-2000cc: Rs 4,100/year
+- Cars above 2000cc: Rs 5,000/year
+- Option: Pay quarterly, half-yearly, or annually
+- Electric vehicles: Exempted from road tax
+
+### West Bengal-Specific Traffic Rules
+IMPORTANT: West Bengal significantly reduced central fine rates after 2019 amendment.
+West Bengal reduced fines:
+- General offence (177): Rs 500 → Rs 100 first, Rs 300 repeat
+- Disobedience (179): Rs 2,000 → Rs 500 first, Rs 1,000 repeat
+- Driving without licence (181): Rs 5,000 → Rs 1,000
+- Speeding (183): Rs 2,000 → Rs 500 first, Rs 1,500 repeat
+- Dangerous driving (184): Rs 5,000 → Rs 1,000
+- Drunken driving (185): Rs 10,000 → Rs 2,000 first, Rs 3,000 repeat
+- No insurance (194): Rs 2,000 → Rs 500
+- No helmet (194B): Rs 1,000 → Rs 200 first, Rs 500 repeat
+- Mobile phone (194D): Rs 5,000 → Rs 1,000 first, Rs 2,000 repeat
+- No seat belt (194A): Rs 1,000 → Rs 200
+Note: West Bengal has among the lowest fines in India
+
+(a) Kolkata-specific rules:
+    - Hand-pulled rickshaws: Being phased out but still exist
+    - Tram routes: Priority for trams on certain roads
+    - Auto-rickshaw: Share-auto system prevalent; meter-based for reserved
+    - Yellow taxi: Meter mandatory; minimum fare Rs 30
+    - App-based cabs: Growing presence
+    - Howrah Bridge: No parking, no stopping; specific lane usage
+    - Heavy vehicles: Restricted 8 AM to 8 PM in central Kolkata
+(b) E-challan: Active in Kolkata, Siliguri, Durgapur, Asansol
+(c) Annual tax payment: Can be paid at KMC (Kolkata Municipal Corporation) or online
+(d) Durga Puja traffic: Special traffic arrangements during Durga Puja (September-October)
+
+### West Bengal Transport Corporation (WBTC/NBSTC/SBSTC)
+- Multiple corporations for different regions
+- Online booking: wbtc.co.in
+- Kolkata city: WBTC, private buses, minibuses, trams
+
+### West Bengal RTO
+22+ RTOs
+Main RTO: Kolkata
+Website: transport.wb.gov.in
+Helpline: 033-22145100
+
+## BIHAR
+
+### Bihar Motor Vehicles Taxation Act, 1994
+Road tax rates:
+- Two-wheelers: 6-8% of vehicle cost (one-time)
+- Cars up to 1000cc: 7%
+- Cars 1000-1500cc: 8%
+- Cars above 1500cc: 9%
+- Electric vehicles: Reduced rates under Bihar EV Policy
+
+### Bihar-Specific Traffic Rules
+(a) Bihar follows central fine rates with some modifications
+(b) Fine structure: Moderate — between central rates and reduced-rate states
+(c) Patna-specific:
+    - Heavy vehicles restricted during peak hours
+    - Mahatma Gandhi Setu: Specific timing and speed restrictions
+    - Auto-rickshaw: Fare regulated by district administration
+    - E-rickshaws: Rapidly growing — simplified permit process
+(d) E-challan: Being rolled out in Patna, Gaya, Muzaffarpur
+(e) Sand mining transport: Strict permits, GPS tracking mandatory
+(f) Flood season: Road closure and diversion protocols during monsoon
+
+### Bihar State Road Transport Corporation (BSRTC)
+- Online booking: bsrtc.bih.nic.in
+- Limited premium services; expanding fleet
+
+### Bihar RTO
+38+ RTOs
+Main RTO: Patna
+Website: transport.bih.nic.in
+
+## JHARKHAND
+
+### Jharkhand Motor Vehicles Taxation
+Road tax rates:
+- Two-wheelers: 5-7% (one-time)
+- Cars: 6-9% based on engine capacity
+- Commercial vehicles: Quarterly/annual tax
+- Electric vehicles: Exempted
+
+### Jharkhand-Specific Rules
+(a) Follows central fine rates largely
+(b) Mining vehicle regulations: Strict rules for coal/mineral transport vehicles
+    - Mandatory GPS tracking
+    - Route restrictions
+    - Weight checks at mining pit-heads and state borders
+    - Special permits for oversize mining equipment
+(c) E-challan: Active in Ranchi, Jamshedpur, Dhanbad
+(d) Tribal area regulations: Special provisions in scheduled areas
+(e) National Highway enforcement: Active on NH 33 (Ranchi-Dhanbad)
+
+### Jharkhand RTO
+24 RTOs
+Main RTO: Ranchi
+Website: jhtransport.gov.in
+
+## ODISHA
+
+### Odisha Motor Vehicles Taxation Act, 1975
+Road tax rates:
+- Two-wheelers: 5-7% (one-time)
+- Cars up to 1000cc: 6%
+- Cars 1000-1500cc: 7%
+- Cars above 1500cc: 8-9%
+- Electric vehicles: Exempted under Odisha EV Policy
+
+### Odisha-Specific Traffic Rules
+(a) Odisha follows central fine rates with some reductions:
+    - No helmet: Rs 1,000 → Rs 500
+    - General offence: Rs 500 → Rs 200
+(b) Bhubaneswar-specific:
+    - Smart city traffic management
+    - E-challan: Fully operational
+    - ANPR cameras at key intersections
+    - Mo Bus (city bus service): Dedicated lanes in some areas
+(c) Puri pilgrimage traffic: Special arrangements during Rath Yatra, peak tourist season
+(d) Cyclone protocol: Vehicle operation rules during cyclone warnings (Odisha is cyclone-prone)
+(e) Coastal road regulations: Special rules during fishing season
+(f) Mining transport: Coal and mineral transport regulations similar to Jharkhand
+
+### Odisha State Road Transport Corporation (OSRTC)
+- Mo Bus (Bhubaneswar city)
+- Online booking available
+- Expanding fleet and routes
+
+### Odisha RTO
+30+ RTOs
+Main RTO: Bhubaneswar
+Website: odishatransport.gov.in
+
+## ANDAMAN AND NICOBAR ISLANDS (Union Territory)
+
+### Transport Rules
+(a) Limited vehicular traffic
+(b) Registration: AN code
+(c) Speed limits: Very low (island roads)
+(d) Road tax: Lower rates
+(e) Ferry/boat: Primary mode of inter-island transport
+(f) Tourism vehicles: Special permits
+(g) Environmental restrictions: Vehicle usage restricted in certain eco-sensitive areas
+(h) Electric vehicles encouraged for island use
+
+## MADHYA PRADESH
+
+### MP Motor Vehicles Taxation Act, 1991
+Road tax rates:
+- Two-wheelers: 5-8% (one-time)
+- Cars up to 1000cc: 6%
+- Cars 1000-1500cc: 7%
+- Cars 1500-2000cc: 8%
+- Cars above 2000cc: 10%
+- Diesel surcharge: 1-2%
+- Electric vehicles: 100% exemption (MP EV Policy)
+
+### MP-Specific Traffic Rules
+(a) MP follows central fine rates with some modifications
+(b) Bhopal/Indore-specific:
+    - E-challan: Fully operational
+    - BRTS in Bhopal and Indore
+    - Auto-rickshaw: Meter mandatory
+    - Heavy vehicle timing restrictions
+(c) Tiger reserve areas: Speed limits near Panna, Bandhavgarh, Kanha, Satpura
+    - Night driving restrictions in core zones
+    - Wildlife crossing signage
+(d) E-challan: Active in Bhopal, Indore, Jabalpur, Gwalior
+(e) Highway enforcement: NH 46 (Bhopal-Indore), NH 44 (Bhopal–Hoshangabad)
+(f) Sand mining transport: Regulated with GPS tracking
+
+### MP State Road Transport Corporation (MPRTC)
+- Extensive network
+- Online booking: mprtc.gov.in
+- Premium services on major routes
+
+### MP RTO
+52+ RTOs
+Main RTO: Bhopal
+Website: transport.mp.gov.in
+
+## CHHATTISGARH
+
+### Chhattisgarh Motor Vehicles Taxation
+Road tax rates:
+- Two-wheelers: 5-7% (one-time)
+- Cars: 6-9%
+- Commercial vehicles: Quarterly/annual
+- Electric vehicles: Exempted
+
+### Chhattisgarh-Specific Rules
+(a) Follows central fine rates largely
+(b) Mining vehicle regulations: Major coal and steel transport corridor
+    - Strict overloading checks
+    - Route permits for mining vehicles
+    - Weighbridge checks at district borders
+(c) Naxal-affected areas: Special vehicle movement restrictions in some districts
+(d) E-challan: Active in Raipur, Bilaspur, Durg-Bhilai
+(e) Industrial corridor: Heavy vehicle traffic management on NH 53 (Raipur-Bilaspur)
+
+### Chhattisgarh RTO
+27+ RTOs
+Main RTO: Raipur
+Website: transport.cg.gov.in
+
+## ASSAM
+
+### Assam Motor Vehicles Taxation Act, 1936
+Road tax rates:
+- Two-wheelers: 4-6% (one-time/periodic)
+- Cars: 5-7%
+- Electric vehicles: Reduced rates
+
+### Assam-Specific Traffic Rules
+(a) Assam follows central fine rates with some reductions
+(b) Guwahati-specific:
+    - Heavy vehicle restriction during peak hours
+    - Auto-rickshaw: Share-auto system; regulated fares
+    - Flood season: Road closure protocols during Brahmaputra flooding
+(c) Tea garden area: Special vehicle permits for estate roads
+(d) Kaziranga area: Strict speed limits (40 km/h) on NH 37 through Kaziranga National Park
+    - Night driving restrictions
+    - Wildlife crossing priority
+    - Heavy fine for overspeeding through park area
+(e) E-challan: Being introduced in Guwahati
+(f) Flood protocol: Regular road submersion during monsoon — vehicle damage prevention guidelines
+
+### Assam State Transport Corporation (ASTC)
+- Covers all 33 districts
+- Online services expanding
+- Premium: Limited; improving
+
+### Assam RTO
+33+ RTOs
+Main RTO: Guwahati
+Website: transport.assam.gov.in
+
+## MEGHALAYA
+
+### Meghalaya Motor Vehicles Taxation
+Road tax: Lower rates (4-6%)
+- Special rates for tribal populations
+- Electric vehicles: Encouraged
+
+### Meghalaya-Specific Rules
+(a) Follows central fine rates with modifications
+(b) Shillong-specific:
+    - Traffic congestion management (narrow city roads)
+    - One-way systems in market areas
+    - Tourist season traffic management
+(c) Coal transport: Previously unregulated; now requires permits
+(d) Hill road safety: Mandatory headlight use, horn on blind corners
+(e) Dawki border (Bangladesh): Commercial vehicle permits for cross-border
+
+### Meghalaya RTO
+11+ RTOs
+Main RTO: Shillong
+Website: megtransport.gov.in
+
+## TRIPURA
+
+### Tripura Motor Vehicles Tax
+Road tax: Lower rates (4-6%)
+
+### Tripura-Specific Rules
+(a) Follows central fine rates with modifications
+(b) Border area: Vehicle movement restrictions near Bangladesh border
+(c) Limited highway infrastructure
+(d) E-challan: Being introduced in Agartala
+
+### Tripura RTO
+8 RTOs
+Main RTO: Agartala
+
+## MIZORAM
+
+### Mizoram Motor Vehicles Rules
+Road tax: Lower rates (3-5%)
+
+### Mizoram-Specific Rules
+(a) Follows central fine rates with modifications
+(b) Hill road regulations: Strict
+(c) No honking after 9 PM (Aizawl — cleanest city tradition)
+(d) Myanmar border: Vehicle permits for cross-border areas
+(e) Limited vehicle population — simpler enforcement
+
+### Mizoram RTO
+8 RTOs
+Main RTO: Aizawl
+
+## MANIPUR
+
+### Manipur Motor Vehicles Taxation
+Road tax: Lower rates (4-6%)
+
+### Manipur-Specific Rules
+(a) Follows central fine rates with modifications
+(b) Imphal-specific: Traffic management in limited road space
+(c) National Highway 2 (Imphal-Moreh): Strategic highway with special regulations
+(d) Inner Line Permit: Required for visitors to certain areas
+(e) Border trade vehicles: Special permits for Myanmar trade route
+
+### Manipur RTO
+Main RTO: Imphal
+Districts: 16+ RTOs
+
+## NAGALAND
+
+### Nagaland Motor Vehicles Tax
+Road tax: Lower rates (3-5%)
+
+### Nagaland-Specific Rules
+(a) Follows central fine rates with modifications
+(b) Limited vehicle infrastructure
+(c) Inner Line Permit: Required for visitors
+(d) Kohima-Dimapur Highway: Main traffic corridor; special enforcement
+(e) Community-based road management in some areas
+
+### Nagaland RTO
+Main RTO: Kohima
+
+## ARUNACHAL PRADESH
+
+### Arunachal Pradesh Motor Vehicles Tax
+Road tax: Lower rates (3-5%)
+
+### Arunachal Pradesh-Specific Rules
+(a) Inner Line Permit: Mandatory for all visitors
+(b) Border area restrictions: Strict vehicle permits near China border
+(c) Limited road infrastructure — BRO maintained
+(d) Seasonal roads: Many roads close during heavy monsoon
+(e) Military vehicle priority on strategic routes
+
+### Arunachal Pradesh RTO
+Main RTO: Itanagar
+
+## SIKKIM
+
+### Sikkim Motor Vehicles Tax
+Road tax: Lower rates (3-5%)
+
+### Sikkim-Specific Rules
+(a) Green protocol: Strict environmental rules
+(b) Tourist vehicles: Must register at entry checkpoints
+(c) Protected Area Permit: Required for certain areas (Nathula, Tsomgo)
+(d) Gangtok: No honking zone; one-way system; parking strictly regulated
+(e) MG Marg (Gangtok): Vehicle-free zone
+(f) Night driving: Restricted on mountain roads
+(g) Plastic-free: No plastic waste in vehicles
+(h) Electric vehicles: Actively promoted for tourist transport
+
+### Sikkim RTO
+Main RTO: Gangtok
+4 district RTOs

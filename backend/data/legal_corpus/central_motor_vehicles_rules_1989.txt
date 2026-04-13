@@ -1,0 +1,446 @@
+CENTRAL MOTOR VEHICLES RULES, 1989
+(As amended up to 2024)
+Ministry of Road Transport and Highways, Government of India
+
+## CHAPTER I — PRELIMINARY
+
+Rule 1. Short title and commencement
+These rules may be called the Central Motor Vehicles Rules, 1989.
+
+Rule 2. Definitions
+In these rules, unless the context otherwise requires:
+(a) "Act" means the Motor Vehicles Act, 1988 (59 of 1988);
+(b) "Form" means a form appended to these rules;
+(c) "BIS" means Bureau of Indian Standards;
+(d) "CMVR" means Central Motor Vehicles Rules, 1989;
+(e) "HSRP" means High Security Registration Plate;
+(f) "ITS" means Intelligent Transport System;
+(g) "AIS" means Automotive Industry Standards.
+
+## CHAPTER II — LICENSING
+
+Rule 3. Categories of driving licences
+The following categories of motor vehicles are recognised for the purpose of driving licences:
+(a) MC 50CC — Motorcycle of engine capacity not exceeding 50cc
+(b) MC EX50CC — Motorcycle of engine capacity exceeding 50cc (includes motorcycles, scooters, mopeds above 50cc)
+(c) LMV-NT — Light Motor Vehicle - Non-Transport (cars, jeeps, delivery vans up to 7500 kg GVW for personal use)
+(d) LMV — Light Motor Vehicle (including transport vehicles up to 7500 kg GVW)
+(e) MCWG — Motorcycle with gear
+(f) MCWOG — Motorcycle without gear (scooter/scooty/moped with automatic transmission)
+(g) MGV — Medium Goods Vehicle (goods vehicle exceeding 7500 kg but not exceeding 12000 kg)
+(h) HMV — Heavy Motor Vehicle (exceeding 12000 kg GVW)
+(i) HPMV — Heavy Passenger Motor Vehicle (bus carrying more than 12 passengers)
+(j) HGV — Heavy Goods Vehicle (goods carriage exceeding 12000 kg GVW)
+(k) Adapted Vehicle — Vehicle adapted for persons with disabilities
+(l) TRAILER — Trailer attached to a motor vehicle
+(m) E-CART — Battery-operated e-cart
+(n) E-RICKSHAW — Battery-operated e-rickshaw
+
+Rule 4. Age requirements for driving licences
+(a) 16 years — MC 50CC (motorcycle not exceeding 50cc, with gearless transmission)
+(b) 18 years — MC EX50CC, MCWG, MCWOG, LMV-NT, LMV
+(c) 20 years — Transport vehicles (MGV, HMV, HPMV, HGV) — must have held LMV licence for at least 1 year
+(d) 18 years — E-rickshaw, E-cart
+
+Rule 5. Application for learner's licence
+(1) Application shall be made in Form 1 (combined application form as per 2019 amendment).
+(2) The applicant shall produce following documents:
+    (a) Proof of age: Birth certificate, School leaving certificate, Passport, or Aadhaar card
+    (b) Proof of address: Aadhaar card, Voter ID, Passport, Utility bill, Ration card, or Bank passbook
+    (c) Medical certificate in Form 1-A (for transport vehicle) from a registered medical practitioner
+    (d) Proof of training from accredited driving school (for transport vehicle applicants)
+    (e) 6 passport-size photographs
+    (f) Blood group certificate
+(3) Application fee as prescribed by state government.
+
+Rule 6. Learner's licence test
+(1) The licensing authority shall conduct a test of competence to drive.
+(2) The test for learner's licence shall be on knowledge of:
+    (a) Traffic signs and road markings
+    (b) Traffic signals
+    (c) Rules of the road as contained in Section 118
+    (d) Duties of a driver in case of accident
+    (e) General awareness of motor vehicle mechanisms
+(3) The test may be conducted electronically/online as prescribed.
+
+Rule 7. Validity of learner's licence
+(1) A learner's licence shall be valid for a period of six months from the date of issue.
+(2) A learner's licence holder must be accompanied by a person holding a valid driving licence for the same type of vehicle while driving.
+(3) An "L" sign must be displayed prominently on the vehicle.
+(4) Learner's licence holders shall not drive between sunset and sunrise.
+(5) Learner's licence holders shall not carry passengers (other than the instructor/accompanying licence holder).
+
+Rule 8. Application for driving licence
+(1) Application for driving licence shall be made in Form 4 (Form 1 combined after 2019 amendment).
+(2) The applicant must have held a learner's licence for at least 30 days before applying.
+(3) For transport vehicles: the applicant must have held an LMV licence for at least 1 year and produce a medical certificate in Form 1-A.
+
+Rule 9. Driving test for obtaining licence
+(1) The driving test shall assess:
+    (a) Starting the vehicle on a gradient
+    (b) Reversing around a corner
+    (c) Driving through a figure-of-eight
+    (d) Stopping the vehicle at a required point
+    (e) Overtaking, turning right and left
+    (f) Traffic judgment at intersections
+    (g) Proper use of rear-view mirrors
+    (h) Knowledge of road rules and signs
+(2) For two-wheelers, the test includes:
+    (a) Riding in a figure-of-eight
+    (b) Balance at slow speed
+    (c) Emergency braking
+
+Rule 10. Driving licence validity and renewal
+(1) Driving licence is valid for 20 years from the date of issue or until the holder attains the age of 40, whichever is later.
+(2) Driving licence issued to persons above 40 years is valid for 10 years.
+(3) For transport vehicle drivers, licence is valid for 3 years and must be renewed with a medical certificate.
+(4) Application for renewal must be made within 30 days before expiry or within one year after expiry (with late fee).
+(5) After one year of expiry, re-test may be required.
+
+Rule 11. International Driving Permit (IDP)
+(1) Any person holding a valid Indian driving licence may apply for an IDP.
+(2) IDP is valid for one year from date of issue.
+(3) IDP is valid for driving in countries that are signatories to the Geneva Convention on Road Traffic 1949 or Vienna Convention on Road Traffic 1968.
+(4) Application fee as prescribed.
+
+## CHAPTER III — REGISTRATION OF MOTOR VEHICLES
+
+Rule 47. Application for registration
+(1) Application shall be made in Form 20 to the registering authority within whose jurisdiction the applicant resides.
+(2) Documents required:
+    (a) Sale certificate / invoice from the dealer
+    (b) Insurance certificate (mandatory third-party insurance)
+    (c) Road tax payment receipt
+    (d) Proof of address (Aadhaar, passport, voter ID, etc.)
+    (e) PAN card or Form 60 (for vehicles costing more than Rs 10 lakhs)
+    (f) Temporary registration certificate (if obtained)
+    (g) Pollution Under Control (PUC) certificate
+    (h) Form 22 — Roadworthiness certificate from manufacturer
+
+Rule 48. Assignment of registration mark
+(1) Registration mark shall be in the format: State Code + RTO Code + Series + Number
+    Example: MH 01 AB 1234 (Maharashtra, RTO 01, Series AB, Number 1234)
+(2) High Security Registration Plates (HSRP) are mandatory for all new vehicles.
+(3) HSRP features:
+    (a) Chromium-based hologram (hot stamped)
+    (b) Laser-etched permanent identification number
+    (c) Retro-reflective sheeting (white for front, yellow for rear)
+    (d) Snap-lock fittings (non-removable, non-reusable)
+    (e) ISD sticker (Inland Letter Sticker) with registration number in text and barcode
+
+Rule 49. Registration certificate (RC)
+(1) Registration certificate shall be issued in Form 23 (smart card format).
+(2) RC shall contain: Owner details, vehicle details, registration number, engine/chassis number, fuel type, seating capacity, GVW (for commercial vehicles), insurance validity, hypothecation details (if any).
+(3) RC is valid for 15 years from date of registration for non-transport vehicles.
+(4) For transport vehicles, RC is valid for the period of fitness certificate.
+
+Rule 50. Transfer of ownership
+(1) Both transferor and transferee must report to RTO within 14 days.
+(2) Transferor shall report transfer in Form 29.
+(3) Transferee shall apply for transfer in Form 30.
+(4) Documents required:
+    (a) Form 29 and Form 30 (signed by both parties)
+    (b) Original RC
+    (c) Valid insurance certificate
+    (d) Valid PUC certificate
+    (e) No objection certificate from financier (if vehicle under loan)
+    (f) Address proof of transferee
+    (g) Identity proof of both parties
+(5) Transfer fee as prescribed by state government.
+(6) Road tax difference (if applicable, for inter-state transfers).
+
+Rule 51. No Objection Certificate (NOC) for inter-state transfer
+(1) NOC must be obtained from the original registering authority before re-registering in another state.
+(2) Application in Form 28.
+(3) NOC is valid for six months from date of issue.
+(4) The vehicle must be re-registered in the new state within the NOC validity period.
+(5) Road tax of the original state may be refunded pro-rata (varies by state policy).
+(6) Re-registration shall be done with new state's registration mark.
+
+Rule 52. Duplicate RC
+(1) If RC is lost, stolen, or mutilated, application for duplicate RC in Form 26.
+(2) FIR copy required for lost/stolen RC.
+(3) Advertisement in local newspaper regarding loss of RC.
+(4) Duplicate RC shall be issued within 30 days.
+
+Rule 53. Fitness certificate for transport vehicles
+(1) All transport vehicles must obtain a fitness certificate before being put on road.
+(2) Fitness test includes: Brakes, steering, suspension, tyres, lights, horn, wipers, mirrors, exhaust emissions, body condition.
+(3) Fitness certificate valid for:
+    (a) 2 years from date of first registration
+    (b) 1 year for subsequent renewals
+(4) Automated fitness testing centres to be established as per 2019 amendment.
+
+## CHAPTER IV — CONSTRUCTION, EQUIPMENT AND MAINTENANCE
+
+Rule 93. Safety features mandatory for all motor vehicles
+(1) Every motor vehicle shall be fitted with:
+    (a) Head lamps (at least two for four-wheelers, one for two-wheelers)
+    (b) Tail lamp and stop lamp
+    (c) Direction indicators (turn signals)
+    (d) Rear-view mirrors (at least two for four-wheelers, one for two-wheelers)
+    (e) Horn (not multi-toned or harsh/shrill)
+    (f) Windshield wiper (for vehicles with windshield)
+    (g) Speedometer
+    (h) Parking lights
+    (i) Number plate illumination lamp
+    (j) Hazard warning lights
+    (k) Reverse lamp (for four-wheelers)
+    (l) High-mounted stop lamp (for vehicles manufactured after 2019)
+    (m) Anti-lock braking system (ABS) for all vehicles as per AIS 128
+    (n) Airbags — minimum 2 front airbags mandatory (from 2022); 6 airbags mandatory (from October 2023)
+    (o) Seat belts for all occupants
+    (p) Reverse parking sensors/camera (for vehicles manufactured after 2022)
+
+Rule 94. Emission standards
+(1) All vehicles must comply with Bharat Stage VI (BS-VI) emission norms from April 1, 2020.
+(2) PUC certificate is mandatory:
+    (a) For new vehicles: after 1 year from date of registration
+    (b) Validity: 6 months
+    (c) PUC test centres must be authorised by the transport department
+(3) Electric vehicles are exempt from PUC requirements.
+(4) PUC limits (BS-VI):
+    Petrol vehicles: CO ≤ 0.3%, HC ≤ 200 ppm
+    Diesel vehicles: Smoke opacity ≤ 50 HSU
+(5) Failure to carry valid PUC: Fine of Rs 10,000 (first offence), Rs 10,000 (repeat) under Section 190(2)
+
+Rule 95. Noise limits
+(1) Maximum noise levels:
+    (a) Two-wheelers: 80 dB(A)
+    (b) Three-wheelers: 77 dB(A)
+    (c) Passenger cars: 74 dB(A)
+    (d) Heavy vehicles (above 12 tonnes): 77 dB(A)
+(2) Modification of silencer/exhaust to increase noise is prohibited.
+(3) Pressure horns are prohibited in city/residential areas.
+
+Rule 96. Window tinting / sun film
+(1) Visual Light Transmission (VLT) requirements:
+    (a) Front windshield: Minimum 70% VLT
+    (b) Front side windows: Minimum 50% VLT
+    (c) Rear windshield and rear side windows: No restriction after Supreme Court order relaxation
+(2) Application of dark films that reduce VLT below prescribed limits is an offence.
+(3) Penalty: Vehicle can be impounded; film to be removed on the spot.
+
+Rule 97. Number plate specifications
+(1) All vehicles must display HSRP (High Security Registration Plates).
+(2) Front plate: White background with black lettering
+(3) Rear plate: Yellow background with black lettering (for personal vehicles); White background (for government vehicles)
+(4) Font: As per Rule 50 of CMVR — standardised Indian font
+(5) Size: 500mm × 120mm for four-wheelers; 200mm × 100mm for two-wheelers
+(6) Fancy/stylised number plates are illegal.
+
+## CHAPTER V — CONTROL OF TRANSPORT VEHICLES
+
+Rule 82. Permits for transport vehicles
+(1) Types of permits:
+    (a) Stage carriage permit — for buses on fixed routes
+    (b) Contract carriage permit — for taxis, tourist vehicles
+    (c) Goods carriage permit — for trucks, lorries
+    (d) Private service vehicle permit — for company buses, school buses
+    (e) All India Tourist Permit (AITP) — valid across all states
+    (f) National Permit — for goods vehicles operating in more than one state
+
+Rule 83. National Permit for goods vehicles
+(1) Application in Form 48 to the home state transport authority.
+(2) National Permit allows operation across India.
+(3) Fee: As prescribed (varies by state; annual fee + per-state authorisation fee).
+(4) National Permit vehicle must comply with fitness requirements of all transiting states.
+(5) Composite fee structure introduced under 2019 amendment to eliminate state-by-state fees.
+
+Rule 84. Taxi / Auto-rickshaw permits
+(1) Contract carriage permits for taxis and auto-rickshaws issued by Regional Transport Authority.
+(2) Meter calibration is mandatory:
+    (a) Electronic digital meters (mandatory in most cities)
+    (b) Calibration certificate from authorised agency
+    (c) Fare card displaying fare chart must be displayed inside the vehicle
+(3) Maximum permissible fare as fixed by state/city transport authority.
+(4) Refusal to ply or overcharging is an offence under Section 178.
+(5) Ride-hailing aggregators (Ola, Uber, etc.) must obtain licence under Section 93 of amended Act.
+    (a) Aggregator licence fee: As prescribed by state
+    (b) Aggregators must comply with IT Act requirements
+    (c) Must share ride data with government (as per IT rules)
+    (d) Penalty for aggregator violations: Rs 25,000 (first), up to Rs 1,00,000 (repeat) — Section 193
+
+## CHAPTER VI — INSURANCE
+
+Rule 140. Compulsory third-party insurance
+(1) No motor vehicle shall be used in a public place unless a valid insurance policy is in force (Section 146, MV Act).
+(2) Types of motor insurance:
+    (a) Third-party liability insurance (mandatory)
+    (b) Comprehensive/own damage insurance (optional but recommended)
+    (c) Personal accident cover for owner-driver (mandatory, minimum Rs 15 lakhs)
+(3) Third-party premium rates are fixed by IRDAI annually.
+(4) Insurance must cover:
+    (a) Death or bodily injury to third party
+    (b) Damage to third-party property (limit: Rs 7.5 lakhs as per IRDAI)
+(5) Penalty for no insurance: Rs 2,000 (first offence), Rs 4,000 (repeat) + imprisonment up to 3 months — Section 196
+
+Rule 141. Motor Accident Claims Tribunal (MACT)
+(1) Claims for compensation in motor accident cases to be filed before MACT.
+(2) MACT has jurisdiction where:
+    (a) The accident occurred, or
+    (b) The claimant resides, or
+    (c) The defendant resides
+(3) Application in Form prescribed by High Court rules.
+(4) No court fee required for filing MACT claim.
+(5) Time limit: As per Limitation Act (generally 2 years from accident, but courts have been liberal).
+(6) Compensation calculated based on:
+    (a) Age and income of deceased/injured
+    (b) Multiplier method (as per Supreme Court in Sarla Verma case)
+    (c) Medical expenses (actual and future)
+    (d) Loss of income / earning capacity
+    (e) Pain and suffering
+    (f) Loss of consortium, love and affection
+    (g) Funeral expenses (in death cases)
+
+Rule 142. Hit and Run compensation
+(1) Under Section 161 of MV Act (amended 2019):
+    (a) Rs 2,00,000 for death
+    (b) Rs 50,000 for grievous hurt
+(2) Compensation paid from Solatium Fund maintained by Central Government.
+(3) Claim to be filed with Claims Enquiry Officer appointed by state government.
+(4) Time limit: 6 months from date of accident (extendable for sufficient cause).
+
+## CHAPTER VII — ROAD SAFETY AND TRAFFIC MANAGEMENT
+
+Rule 15. Rules of the road (Left-hand traffic)
+(1) India follows left-hand traffic system.
+(2) Keep to the left side of the road at all times.
+(3) Overtake only from the right side.
+(4) Give way to vehicles coming from the right at uncontrolled intersections.
+(5) Give way to vehicles already in a roundabout.
+(6) Pedestrians have right of way at marked crossings.
+
+Rule 16. Speed limits (as notified by states)
+General speed limits (unless otherwise posted):
+(a) Within city limits:
+    - Cars/LMV: 50 km/h
+    - Two-wheelers: 40 km/h
+    - Auto-rickshaws: 35 km/h
+    - Heavy vehicles: 40 km/h
+(b) On highways:
+    - Cars/LMV: 100 km/h (expressways: 120 km/h)
+    - Two-wheelers: 80 km/h
+    - Goods vehicles: 60-80 km/h (varies by category)
+    - Buses: 80 km/h
+(c) In school zones/hospital zones: 25 km/h
+(d) In residential areas: 30 km/h
+Note: States may fix different speed limits for their jurisdictions.
+
+Rule 17. Mandatory use of safety equipment
+(1) Seat belts: Mandatory for driver and all passengers in four-wheelers (Section 194A, 194E)
+(2) Helmets: Mandatory for rider and pillion rider of two-wheelers (Section 194B)
+    - Helmet must conform to BIS standard IS 4151
+    - Visor must not be excessively tinted
+    - Sikh persons wearing turban are exempt from helmet requirement (Section 129)
+(3) Child safety: Children below 4 years must not ride on motorcycles
+    - Child seat mandatory in cars for children below specified age (as per state rules)
+
+Rule 18. Prohibited acts while driving
+(1) Using handheld mobile phone / communication device — Section 194D — Fine Rs 5,000
+(2) Driving under influence of alcohol (BAC > 30 mg/100 ml blood) — Section 185
+(3) Driving under influence of drugs — Section 185
+(4) Racing on public roads without permission — Section 189
+(5) Driving against one-way traffic
+(6) Jumping red signal
+(7) Driving on footpath
+(8) Parking at no-parking zones
+(9) Using vehicle horn in silence zones
+(10) Driving with headlights on high beam in city areas at night
+
+Rule 19. Traffic signs and their meanings
+(1) Mandatory signs (circular with red border):
+    - Stop, Give Way, No Entry, One Way, Speed Limit, No Parking, No Honking, No U-Turn, No Overtaking
+(2) Cautionary/Warning signs (triangular with red border):
+    - Sharp curve, Steep gradient, Narrow road, School zone, Pedestrian crossing, Speed breaker, Railway crossing
+(3) Informatory signs (rectangular, blue/green):
+    - Hospital, Petrol pump, Parking, Tourist place, Highway distance markers
+(4) Road markings:
+    - Continuous white line: No overtaking, no lane changing
+    - Broken white line: Overtaking permitted
+    - Yellow line (single): No parking
+    - Yellow line (double): No parking and no stopping
+    - Zebra crossing: Pedestrian right of way
+
+Rule 20. Accident procedures
+(1) In case of accident, the driver must:
+    (a) Stop the vehicle immediately
+    (b) Render first aid to injured persons
+    (c) Arrange for medical help / transport injured to nearest hospital
+    (d) Report to nearest police station within 24 hours
+    (e) Information to insurance company within specified time
+(2) Good Samaritan protection (Section 134A):
+    (a) Any person who provides emergency care to an accident victim shall not be liable for any civil or criminal action
+    (b) Good Samaritan cannot be compelled to appear as witness
+    (c) Hospital must provide initial treatment without waiting for police formalities or payment
+    (d) Good Samaritan guidelines apply to all hospitals (public and private)
+(3) Golden Hour (Section 162):
+    (a) Cashless treatment during golden hour (first hour after accident) at any hospital
+    (b) MACT compensation scheme covers treatment costs
+    (c) State government to establish scheme for golden hour treatment
+
+## CHAPTER VIII — VEHICLE SCRAPPING AND GREEN TAX
+
+Rule 150. Vehicle Scrapping Policy (effective from 2022)
+(1) Mandatory fitness testing for:
+    (a) Government vehicles older than 15 years
+    (b) Private vehicles older than 20 years
+    (c) Commercial vehicles older than 15 years
+(2) Vehicles failing fitness test must be scrapped at Registered Vehicle Scrapping Facilities (RVSF).
+(3) Benefits of voluntary scrapping:
+    (a) Scrap value certificate
+    (b) Rebate on new vehicle purchase (up to 25% of showroom price)
+    (c) Road tax rebate (up to 25%)
+    (d) Registration fee waiver for new vehicle
+(4) Green tax:
+    (a) Transport vehicles older than 8 years: 10-25% of annual road tax
+    (b) Personal vehicles older than 15 years: Higher green tax at time of RC renewal
+    (c) Vehicles registered in highly polluted cities: Additional green tax
+
+## CHAPTER IX — ELECTRONIC ENFORCEMENT AND E-GOVERNANCE
+
+Rule 167. Electronic monitoring and enforcement
+(1) State governments may use electronic devices for traffic enforcement:
+    (a) Speed cameras (radar and LIDAR)
+    (b) Red light violation cameras
+    (c) CCTV surveillance
+    (d) Body-worn cameras for traffic police
+    (e) Automatic Number Plate Recognition (ANPR)
+(2) Evidence from electronic devices is admissible under Section 136(3).
+(3) E-challan process:
+    (a) Violation captured electronically
+    (b) E-challan generated and sent to vehicle owner via SMS/email
+    (c) Payment can be made online through state portal or Parivahan portal
+    (d) 30-day window for payment (varies by state)
+    (e) Failure to pay: Vehicle can be impounded; matter referred to court
+
+Rule 168. Vahan and Sarathi portals
+(1) Vahan: National vehicle registration database
+    (a) Online vehicle registration
+    (b) RC transfer and NOC
+    (c) Fancy/choice number allocation
+    (d) Duplicate RC application
+    (e) Hypothecation addition/termination
+(2) Sarathi: National driving licence database
+    (a) Online LL/DL application
+    (b) DL slot booking for test
+    (c) DL renewal
+    (d) International Driving Permit application
+    (e) Duplicate DL
+    (f) Address change in DL
+
+## CHAPTER X — ELECTRIC VEHICLES
+
+Rule 170. Registration of electric vehicles
+(1) Electric vehicles shall be registered with green number plates.
+(2) Registration mark background: Green with white lettering.
+(3) Reduced registration fee for EVs (varies by state; many states offer zero registration fee).
+(4) Road tax exemption or reduction for EVs in most states.
+
+Rule 171. EV-specific rules
+(1) No PUC certificate required for battery electric vehicles.
+(2) Charging infrastructure standards: As per BIS/AIS standards.
+(3) Battery disposal: Must be done through authorised recyclers as per E-Waste Management Rules.
+(4) Speed governors not required for EVs (speed limited by design).
+(5) Permit relaxation for electric transport vehicles in some states.
+(6) FAME-II subsidy applicable for eligible EVs (as per FAME scheme guidelines).

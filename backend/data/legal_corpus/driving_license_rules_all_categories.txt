@@ -1,0 +1,316 @@
+DRIVING LICENCE RULES — ALL CATEGORIES AND PROCEDURES
+Applicable Across All Indian States and Union Territories
+(Based on Motor Vehicles Act 1988, CMVR 1989, and State-specific amendments)
+
+## PART A — TYPES OF DRIVING LICENCES IN INDIA
+
+### 1. Learner's Licence (LL)
+Purpose: Allows a person to learn driving on public roads under supervision
+Validity: 6 months from date of issue
+Conditions:
+- Must be accompanied by a licensed driver for the same vehicle class
+- Must display "L" sign on vehicle (front and rear)
+- Cannot drive between sunset and sunrise
+- Cannot carry passengers (except instructor/accompanying licence holder)
+- Cannot drive on highways/expressways
+Application: Form 1 (combined form after 2019 amendment) — online via Sarathi portal or at RTO
+Fee: Rs 150-200 (varies by state)
+
+### 2. Permanent Driving Licence (DL)
+Purpose: Authorises holder to drive specified category of motor vehicles
+Validity: 20 years from issue date or until age 40 (whichever is later); 10 years for those above 40
+Application: After holding LL for minimum 30 days; Form 4 / Form 1 (combined)
+Test: Driving test at RTO or authorised testing centre
+
+### 3. International Driving Permit (IDP)
+Purpose: Allows driving in foreign countries signatory to Geneva/Vienna conventions
+Validity: 1 year from date of issue
+Prerequisite: Valid Indian driving licence
+Application: At RTO; requires photographs, passport copy, valid DL
+Countries: Valid in 150+ countries (not accepted in some countries — check with destination embassy)
+
+### 4. Duplicate Driving Licence
+Issued when: Original licence is lost, stolen, or damaged
+Application: Form 1 (combined form) at RTO or online
+Documents: FIR copy (if lost/stolen), affidavit, photographs
+Fee: As prescribed by state (typically Rs 200-500)
+
+### 5. Commercial/Transport Driving Licence
+For: Driving transport vehicles (taxis, buses, trucks, goods vehicles)
+Additional requirements: LMV licence for 1+ year, medical certificate (Form 1-A), training from accredited school
+Validity: 3 years (renewable with medical certificate)
+Medical fitness: Must be renewed with each DL renewal
+
+## PART B — VEHICLE CATEGORIES AND LICENCE CLASSES
+
+### MC 50CC (Motorcycle up to 50cc)
+Minimum age: 16 years (with parent/guardian consent)
+Vehicles covered: Mopeds, electric scooters up to 50cc equivalent
+Test: Simplified riding test
+
+### MCWOG (Motorcycle Without Gear)
+Minimum age: 18 years
+Vehicles covered: Scooters, scooty, automatic transmission two-wheelers above 50cc (e.g., Honda Activa, TVS Jupiter)
+Test: Riding test on automatic vehicle
+
+### MCWG (Motorcycle With Gear)
+Minimum age: 18 years
+Vehicles covered: All motorcycles with manual gear transmission (e.g., Royal Enfield, Bajaj Pulsar, Hero Splendor)
+Test: Riding test on manual gear motorcycle
+Note: MCWG licence covers MCWOG vehicles also
+
+### LMV-NT (Light Motor Vehicle — Non-Transport)
+Minimum age: 18 years
+Vehicles covered: Private cars, jeeps, vans up to 7500 kg GVW (e.g., Maruti Swift, Hyundai Creta, Toyota Innova)
+Test: Full driving test
+Note: Does not authorise driving for hire/commercial purposes
+
+### LMV (Light Motor Vehicle — including Transport)
+Minimum age: 18 years (20 for transport use)
+Vehicles covered: All vehicles up to 7500 kg GVW, including for hire/transport
+Prerequisite for transport: LMV-NT licence for 1+ year
+Note: Required for commercial taxi driving, small goods vehicles
+
+### MGV (Medium Goods Vehicle)
+Minimum age: 20 years
+Vehicles covered: Goods vehicles between 7500 kg and 12000 kg GVW
+Prerequisite: LMV licence for 1+ year; medical certificate
+Test: Driving test on appropriate vehicle
+
+### HMV (Heavy Motor Vehicle)
+Minimum age: 20 years
+Vehicles covered: All motor vehicles above 12000 kg GVW
+Subcategories:
+- HGV (Heavy Goods Vehicle) — trucks, trailers
+- HPMV (Heavy Passenger Motor Vehicle) — buses
+Prerequisite: LMV licence for 1+ year; medical certificate; formal driver training
+Test: Comprehensive driving test
+
+### Adapted Vehicle
+For: Persons with physical disabilities
+Special features: Vehicle modified with hand controls, wheelchair accessibility, etc.
+Test: Modified test appropriate to the disability
+Note: Licence specifies the adaptations required
+
+### E-Rickshaw / E-Cart
+Minimum age: 18 years
+Vehicles covered: Battery-operated e-rickshaws and e-carts
+Test: Simplified test
+Special: Many states have separate e-rickshaw licence category
+
+### TRAILER
+Vehicles covered: Trailer attached to a motor vehicle
+Prerequisite: HMV licence
+Note: Separate endorsement required on existing HMV licence
+
+## PART C — DRIVING LICENCE APPLICATION PROCESS
+
+### Step 1: Documents Required
+For all applicants:
+1. Age proof (any one): Birth certificate, Class 10 mark sheet, Passport, Aadhaar card, PAN card
+2. Address proof (any one): Aadhaar card, Voter ID, Passport, Utility bill (electricity/gas/water — not older than 3 months), Ration card, Bank passbook/statement
+3. Passport-size photographs (6 copies, white background)
+4. Blood group certificate (from recognised lab or blood bank)
+5. Existing LL (for DL application)
+
+For transport vehicle licence (additional):
+6. Medical certificate in Form 1-A from registered medical practitioner
+7. Training certificate from accredited driving training school
+8. Educational qualification: Minimum Class 8 pass (as per 2019 amendment)
+9. Existing LMV DL (held for at least 1 year)
+
+### Step 2: Learner's Licence Application
+Online process (via Sarathi portal — sarathi.parivahan.gov.in):
+1. Visit Sarathi portal → Select state → Select "New Learner's Licence"
+2. Fill application form with personal details
+3. Upload documents (scanned copies)
+4. Pay fee online (debit card / net banking / UPI)
+5. Book slot for LL test at RTO
+6. Appear for test (computer-based multiple-choice at most RTOs)
+7. Upon passing, LL is issued (sent by post or download from portal)
+
+Offline process:
+1. Visit RTO with documents
+2. Fill Form 1 (combined application form)
+3. Pay fee at RTO counter
+4. Appear for LL test
+5. LL issued on passing
+
+### Step 3: Driving Licence Application (after 30 days of LL)
+Online process:
+1. Visit Sarathi portal → Select "New Driving Licence"
+2. Enter LL number
+3. Fill application form
+4. Upload documents
+5. Pay fee online
+6. Book slot for driving test at RTO
+7. Appear for driving test at RTO on scheduled date
+8. Upon passing, DL is dispatched (smart card format, sent by registered post)
+
+### Step 4: Driving Test
+The test evaluates:
+For four-wheelers:
+1. Starting the vehicle
+2. Driving forward and in reverse
+3. Hill start (starting on an incline)
+4. Figure-of-eight
+5. Parallel parking
+6. Stopping at a designated point
+7. Traffic rule knowledge
+8. Mirror usage
+9. Indicator usage
+
+For two-wheelers:
+1. Figure-of-eight
+2. Balance at slow speed
+3. Emergency braking
+4. Slalom (weaving through cones)
+
+### Step 5: DL Delivery
+- Smart card DL dispatched via registered post within 30 days
+- Can track status on Sarathi portal
+- Digital DL available on DigiLocker / mParivahan app (legally valid)
+
+## PART D — DRIVING LICENCE RENEWAL
+
+### When to Renew
+- Application can be made up to 1 year before expiry (recommended: 30 days before)
+- Grace period: Up to 1 year after expiry (with late fee; no re-test required)
+- After 1 year of expiry: Re-test may be required at RTO's discretion
+- After 5 years of expiry: Full re-test mandatory
+
+### Renewal Process
+Online:
+1. Sarathi portal → "DL Renewal"
+2. Enter DL number and date of birth
+3. Fill renewal application
+4. Upload latest photograph and documents
+5. Pay renewal fee online
+6. Book appointment (if medical test required — for transport licence or persons above 40 years)
+7. New DL dispatched
+
+### Renewal Fee
+- Non-transport: Rs 200-500 (varies by state)
+- Transport: Rs 200-500 + medical certificate fee
+- Late fee: Rs 200-1,000 (depending on delay and state)
+
+### Medical Certificate for Renewal
+Required for:
+- Transport vehicle DL (every renewal)
+- Persons above 40 years (every renewal)
+- Persons with known medical conditions
+Medical test: Eye test, general physical fitness, diabetes check, blood pressure
+
+## PART E — CHANGE OF ADDRESS ON DRIVING LICENCE
+
+### When Required
+When licence holder changes residential address (within same state or to another state)
+
+### Process
+Online: Sarathi portal → "Change of Address"
+Documents: New address proof, existing DL
+Fee: Rs 200-300 (varies by state)
+Note: If moving to another state, some states require fresh DL; most allow address update
+
+## PART F — ENDORSEMENT AND SUSPENSION OF LICENCE
+
+### Endorsement
+When a traffic violation is committed, the convicting magistrate or compounding officer may endorse the violation on the driving licence.
+Three endorsements within 3 years: Licence may be suspended.
+
+### Suspension of Licence
+Grounds:
+1. Three or more endorsements within 3 years
+2. Conviction for dangerous driving (Section 184)
+3. Conviction for drunken driving (Section 185)
+4. Conviction for racing (Section 189)
+5. Not wearing helmet (Section 194B — 3-month suspension)
+6. Overloading two-wheeler (Section 194F — 3-month suspension)
+
+Duration: As ordered by magistrate or licensing authority (minimum 3 months, maximum 2 years for most offences)
+
+### Revocation of Licence
+Grounds:
+1. Licence obtained by fraud/misrepresentation
+2. Holder is physically/mentally unfit to drive
+3. Repeated serious offences
+4. Court order
+
+### Appeal
+- Against licensing authority's order: Appeal to State Transport Appellate Tribunal
+- Against court order: Appeal to Sessions Court / High Court
+- Time limit for appeal: 30 days from date of order
+
+## PART G — DIGITAL DRIVING LICENCE AND MODERN FEATURES
+
+### DigiLocker
+- Digital DL available on DigiLocker (digilocker.gov.in)
+- Legally valid as per IT Act, 2000
+- Can be shown to police officers during verification
+
+### mParivahan App
+- Mobile app by Ministry of Road Transport
+- Shows virtual DL and RC
+- Accepts digital documents during verification
+- Available on Android and iOS
+- Features: DL details, RC details, challan status, PUC status, FASTag details
+
+### Aadhaar-linked DL
+- DL linked to Aadhaar for identity verification
+- Enables paperless verification
+- Reduces fraud in DL issuance
+
+## PART H — STATE-WISE DL FEES (APPROXIMATE)
+
+State | LL Fee | DL Fee | Renewal Fee | IDP Fee
+Delhi | Rs 200 | Rs 400 | Rs 300 | Rs 1,000
+Maharashtra | Rs 150 | Rs 400 | Rs 300 | Rs 1,000
+Karnataka | Rs 150 | Rs 350 | Rs 250 | Rs 1,000
+Tamil Nadu | Rs 150 | Rs 400 | Rs 300 | Rs 1,000
+Uttar Pradesh | Rs 150 | Rs 400 | Rs 300 | Rs 1,000
+Gujarat | Rs 150 | Rs 300 | Rs 250 | Rs 1,000
+Rajasthan | Rs 150 | Rs 350 | Rs 250 | Rs 1,000
+West Bengal | Rs 150 | Rs 350 | Rs 300 | Rs 1,000
+Kerala | Rs 200 | Rs 400 | Rs 300 | Rs 1,000
+Telangana | Rs 200 | Rs 400 | Rs 300 | Rs 1,000
+Note: Fees are approximate and may change. Check state RTO website for current fees.
+
+## PART I — COMMON DL-RELATED PROBLEMS AND SOLUTIONS
+
+### Problem: Lost driving licence
+Solution:
+1. File FIR at nearest police station
+2. Apply for duplicate DL online or at RTO
+3. Carry affidavit stating loss of DL
+4. Use DigiLocker/mParivahan as interim proof
+
+### Problem: Expired driving licence
+Solution:
+1. If expired less than 1 year: Renew online, no re-test
+2. If expired 1-5 years: May need re-test, apply at RTO
+3. If expired more than 5 years: Full re-test required
+4. During renewal processing, carry renewal acknowledgement receipt
+
+### Problem: Address change not updated
+Solution:
+1. Update online via Sarathi portal
+2. Fine for not updating within 30 days: Not enforced strictly but may cause issues during verification
+
+### Problem: DL shows wrong details
+Solution:
+1. Apply for correction at RTO
+2. Submit supporting documents
+3. No fee for correction of RTO's error
+
+### Problem: DL suspended/endorsed
+Solution:
+1. Wait for suspension period to end
+2. Apply for restoration at RTO
+3. May need to complete driving improvement course (in some states)
+4. Can appeal suspension order within 30 days
+
+### Problem: Challaned for wrong vehicle category
+Solution:
+1. If licence doesn't cover the vehicle class, you are liable
+2. Get appropriate endorsement added to licence
+3. To add vehicle class: Apply at RTO, pass test for new category

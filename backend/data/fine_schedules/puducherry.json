@@ -1,0 +1,28 @@
+{
+  "state": "Puducherry",
+  "state_code": "PY",
+  "description": "Puducherry UT traffic fine schedule — follows central MVA 2019 rates",
+  "effective_date": "2019-09-01",
+  "gazette_notification": "Follows Central Act as UT",
+  "source": "https://transport.py.gov.in",
+  "confidence": "medium",
+  "notes": "As a Union Territory, Puducherry follows the central penalty schedule. However, enforcement patterns may vary.",
+  "sections": {
+    "177": {"offense": "General offenses", "first_offense": 500, "repeat": 1500, "imprisonment": null, "license_action": null, "notes": null},
+    "179": {"offense": "Disobedience of orders", "first_offense": 2000, "repeat": 4000, "imprisonment": "Up to 6 months", "license_action": null, "notes": null},
+    "181": {"offense": "Driving without valid licence", "first_offense": 5000, "repeat": null, "imprisonment": "Up to 3 months", "license_action": null, "notes": null},
+    "182": {"offense": "Driving despite disqualification", "first_offense": 10000, "repeat": null, "imprisonment": "Up to 3 months", "license_action": null, "notes": null},
+    "183": {"offense": "Exceeding speed limit", "first_offense": 2000, "repeat": 4000, "imprisonment": null, "license_action": null, "notes": null},
+    "184": {"offense": "Dangerous driving", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": null},
+    "185": {"offense": "Drunken driving", "first_offense": 10000, "repeat": 15000, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": null},
+    "190": {"offense": "Using vehicle in unsafe condition", "first_offense": 5000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null},
+    "192": {"offense": "Using vehicle without registration", "first_offense": 5000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null},
+    "194": {"offense": "Driving without insurance", "first_offense": 2000, "repeat": 4000, "imprisonment": "Up to 3 months", "license_action": null, "notes": null},
+    "194A": {"offense": "Not wearing seatbelt", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": null, "notes": null},
+    "194B": {"offense": "Two-wheeler without helmet", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": "3-month DL suspension", "notes": null},
+    "194C": {"offense": "Not giving way to emergency vehicles", "first_offense": 10000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null},
+    "194D": {"offense": "Using mobile phone while driving", "first_offense": 5000, "repeat": 5000, "imprisonment": null, "license_action": null, "notes": null},
+    "194E": {"offense": "Seatbelt violation (all occupants)", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": null, "notes": null},
+    "199": {"offense": "Juvenile offences — guardian/owner liable", "first_offense": 25000, "repeat": null, "imprisonment": "Up to 3 years", "license_action": "Registration cancelled", "notes": null}
+  }
+}

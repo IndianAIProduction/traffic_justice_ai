@@ -1,0 +1,237 @@
+STATE-SPECIFIC RTO RULES — NORTH INDIA
+Covers: Delhi, Uttar Pradesh, Uttarakhand, Himachal Pradesh, Punjab, Haryana, Chandigarh, Jammu & Kashmir, Ladakh
+
+## DELHI (National Capital Territory)
+
+### Delhi Motor Vehicles Taxation Act, 1962
+Road tax rates:
+- Two-wheelers: 4% of vehicle cost (one-time)
+- Cars up to Rs 6 lakhs: 4% (one-time)
+- Cars Rs 6-10 lakhs: 7%
+- Cars above Rs 10 lakhs: 10%
+- Diesel vehicles: Additional 2.5% environment surcharge
+- CNG vehicles: 25% discount on road tax
+- Electric vehicles: 100% road tax exemption (Delhi EV Policy 2020)
+
+### Delhi EV Policy 2020
+- Road tax exemption for battery EVs
+- Registration fee waiver
+- Purchase incentive: Up to Rs 30,000 for two-wheelers, up to Rs 1.5 lakhs for four-wheelers
+- Scrapping incentive for replacing old vehicles with EVs
+- Charging infrastructure: Public charging stations mandated in new buildings
+
+### Delhi Traffic Rules (Specific)
+(a) Odd-even scheme: May be activated during high pollution (odd/even number plates on alternate days)
+(b) Red light on, engine off: Campaign for reducing idle pollution at traffic signals
+(c) No entry for commercial vehicles (heavy): 7:00 AM to 11:00 PM on certain roads
+(d) RFID tags for commercial vehicles entering Delhi
+(e) Green tax: For vehicles older than 15 years (additional 25-50% of road tax)
+(f) No diesel vehicles older than 10 years in Delhi-NCR (Supreme Court/NGT order)
+(g) No petrol vehicles older than 15 years in Delhi-NCR
+(h) Congestion charge: Under consideration for commercial areas
+
+### Delhi Fine Structure (E-Challan)
+Delhi follows central fine amounts as per 2019 MV Act amendment.
+E-challan system: Fully electronic, cameras at major intersections.
+Payment: Online via delhitrafficpolice.nic.in or Parivahan portal
+Challenge: Online challenge available on e-challan portal
+
+### Delhi RTO Offices
+Main RTO: Sarai Kale Khan, IP Estate
+Sub-RTOs: Janakpuri, Rohini, Loni Road, Surajmal Vihar, Vasant Vihar
+Website: transport.delhi.gov.in
+Helpline: 1095
+
+## UTTAR PRADESH
+
+### UP Motor Vehicles Taxation Act, 1997
+Road tax rates:
+- Two-wheelers up to 100cc: 4% of vehicle cost (one-time)
+- Two-wheelers above 100cc: 6%
+- Cars up to 1000cc: 6%
+- Cars 1000-1500cc: 7%
+- Cars above 1500cc: 8%
+- SUVs/Luxury cars: 9-10%
+- Diesel surcharge: 2% additional
+- Electric vehicles: Exempted until 2025 (UP EV Policy 2022)
+
+### UP-Specific Traffic Rules
+(a) UP adopts central fine schedule with some state modifications
+(b) E-challan active in: Lucknow, Noida, Agra, Varanasi, Kanpur, Prayagraj, Ghaziabad, Meerut
+(c) Speed cameras: Deployed on Agra-Lucknow Expressway, Purvanchal Expressway, Yamuna Expressway
+(d) Commercial vehicle entry restrictions: Apply in major cities during peak hours
+(e) Heavy vehicles: Restricted on city roads during 8 AM to 10 PM in major cities
+(f) Fitness testing centres: Being established in all districts
+
+### UP Transport Corporation (UPSRTC)
+- State bus service covering all 75 districts
+- Online booking: upsrtc.com
+- Concessional passes for students, senior citizens, freedom fighters
+
+### UP RTO Network
+75 RTOs (one per district)
+Main RTO: Lucknow
+Website: uptransport.gov.in
+Helpline: 0522-2638933
+
+## UTTARAKHAND
+
+### Uttarakhand Motor Vehicles Taxation Rules
+Road tax:
+- Two-wheelers: 4.5% (one-time)
+- Cars up to 1200cc: 5.5%
+- Cars above 1200cc: 6.5%
+- SUVs/Luxury: 7-8%
+
+### Uttarakhand-Specific Rules
+(a) Uttarakhand reduced many central fine amounts after 2019 amendment:
+    - General offence (Section 177): Rs 500 → Rs 100 for first, Rs 300 for repeat
+    - No helmet (Section 194B): Rs 1,000 → Rs 500 first, Rs 1,000 repeat
+    - Mobile phone use (Section 194D): Rs 5,000 → Rs 1,000 first, Rs 2,000 repeat
+(b) Hill road special rules:
+    - Uphill traffic has right of way over downhill traffic
+    - Honking mandatory on blind curves
+    - Chain driving may be required in snow areas
+    - Headlights mandatory in tunnels
+(c) Eco-sensitive zones: Speed restrictions near Corbett, Rajaji National Park
+(d) Tourist vehicles: Special permits required for certain areas (Char Dham route)
+
+### Uttarakhand RTO
+Main RTO: Dehradun
+Website: transport.uk.gov.in
+Districts: 13 RTOs
+
+## HIMACHAL PRADESH
+
+### HP Motor Vehicles Taxation Act
+Road tax:
+- Two-wheelers: 3-5%
+- Cars: 5-8% based on engine capacity
+- Electric vehicles: Reduced rates
+
+### HP-Specific Rules
+(a) HP also reduced some central fines:
+    - No helmet: Rs 1,000 → Rs 500
+    - General offence: Rs 500 → Rs 200
+(b) Hill road regulations:
+    - Green card/permit required for certain routes (Rohtang Pass, Manali-Leh)
+    - Inner Line Permit for border areas (Spiti, Kinnaur)
+    - Vehicle fitness strictly checked at checkpoints
+    - Snow chains mandatory in winter on high-altitude routes
+(c) Tourist taxi permits: Special scheme for HP-registered tourist taxis
+(d) Pollution check mandatory at entry points
+
+### HP Transport Corporation (HRTC)
+- Extensive network in hilly terrain
+- Online booking: hrtchp.com
+- Special services: Volvo, semi-luxury for tourist routes
+
+### HP RTO
+Main RTO: Shimla
+Website: himachal.nic.in/transport
+Districts: 12 RTOs
+
+## PUNJAB
+
+### Punjab Motor Vehicles Taxation Act, 1924
+Road tax:
+- Two-wheelers: 6% (one-time)
+- Cars up to 1000cc: 6%
+- Cars 1000-2000cc: 7%
+- Cars above 2000cc: 8%
+- Diesel vehicles: Additional surcharge
+- Electric vehicles: Exempted (Punjab EV Policy)
+
+### Punjab-Specific Rules
+(a) Punjab follows central fine schedule largely
+(b) E-challan active in: Chandigarh (UT), Ludhiana, Amritsar, Jalandhar
+(c) Sikh turbaned persons: Helmet exemption fully applicable
+(d) Agricultural vehicles: Tractor registration and road tax rules (special provisions)
+(e) Goods vehicles: State-specific goods tax at entry points being replaced by e-way bill
+(f) Sand mining vehicles: Special permits and route restrictions
+
+### Punjab Roadways (PRTC/PUNBUS)
+- State bus service
+- PUNBUS and PRTC (two corporations)
+- Online booking available
+- Student concession: 50% on bus pass
+
+### Punjab RTO
+Main RTO: Chandigarh (shared with Haryana)
+Website: punjabtransport.org
+Districts: 22+ RTOs
+
+## HARYANA
+
+### Haryana Motor Vehicles Taxation Act, 2016
+Road tax:
+- Two-wheelers: 5-7%
+- Cars up to 1000cc: 5%
+- Cars 1000-2000cc: 6%
+- Cars above 2000cc: 8%
+- SUVs above Rs 20 lakhs: 10%
+- Electric vehicles: Exempted
+
+### Haryana-Specific Rules
+(a) Haryana follows central fine schedule
+(b) E-challan: Active in Gurugram, Faridabad, Panchkula, Ambala, Karnal
+(c) KMP Expressway: FASTag mandatory, speed limit 120 km/h
+(d) Delhi-NCR restrictions apply to Gurugram, Faridabad (NCR areas)
+(e) Vehicle scrapping: Early adoption of vehicle scrapping policy
+(f) Green tax: Applicable for vehicles above 15 years
+
+### Haryana Roadways
+- Extensive network
+- Volvo and semi-luxury services to Delhi, Punjab, Rajasthan
+- Online booking: hartrans.gov.in
+
+### Haryana RTO
+Main RTO: Chandigarh (shared with Punjab)
+Website: hartrans.gov.in
+Districts: 22+ RTOs
+
+## CHANDIGARH (Union Territory)
+
+### Registration and Tax
+- Separate registration code (CH)
+- Road tax rates similar to Punjab/Haryana
+- E-challan fully operational
+- HSRP mandatory for all vehicles
+- BH series registration available
+
+### Chandigarh-Specific Rules
+(a) Stricter enforcement compared to neighbouring states
+(b) Full central fine rates applicable
+(c) No heavy commercial vehicles in residential sectors
+(d) Parking: Multi-level parking systems in sectors
+(e) Bicycle-friendly infrastructure
+(f) CCTV-based enforcement at all major intersections
+
+## JAMMU & KASHMIR
+
+### J&K Motor Vehicles Rules
+(a) Separate taxation structure
+(b) Road tax: Generally lower than mainland states (4-6% for cars)
+(c) Tourist vehicles: Special permits required
+(d) Security check: Vehicles checked at multiple points
+(e) Highway restrictions: Timing restrictions on Jammu-Srinagar highway (convoy system)
+(f) E-challan: Being introduced
+
+### J&K Specific Provisions
+(a) Inner Line Permit not required after Article 370 abrogation
+(b) National Highway timing: Specific days/times for one-way traffic on NH44
+(c) Snow chain requirements: Mandatory in winter months
+(d) Military vehicle priority: On certain routes during operations
+(e) Tourist registration: At checkpoints for certain areas
+
+## LADAKH (Union Territory)
+
+### Ladakh Transport Rules
+(a) Separate UT since 2019
+(b) Inner Line Permit: Required for foreign nationals in certain areas
+(c) Eco-fee: For vehicles entering Ladakh
+(d) Altitude sickness advisory: For drivers at high altitude
+(e) Road condition: Many roads seasonal (May-October)
+(f) BRO (Border Roads Organisation): Maintains most roads
+(g) Fuel availability: Limited beyond Leh — plan accordingly
+(h) Speed limit: Very low on mountain roads (20-40 km/h)

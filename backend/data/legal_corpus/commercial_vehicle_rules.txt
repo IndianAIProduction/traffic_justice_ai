@@ -1,0 +1,316 @@
+COMMERCIAL AND TRANSPORT VEHICLE RULES — COMPREHENSIVE GUIDE
+(Based on Motor Vehicles Act 1988, CMVR 1989, and State Transport Authority Rules)
+
+## PART A — TYPES OF TRANSPORT VEHICLES AND PERMITS
+
+### 1. Goods Carriage
+(a) Light Goods Vehicle (LGV): Up to 7,500 kg GVW
+(b) Medium Goods Vehicle (MGV): 7,500 to 12,000 kg GVW
+(c) Heavy Goods Vehicle (HGV): Above 12,000 kg GVW
+(d) Multi-axle vehicle (MAV): Vehicles with 3+ axles
+(e) Truck-trailer combination: Tractor with trailer
+
+### 2. Passenger Transport
+(a) Stage carriage (bus): Fixed route, fixed fare, schedule service
+(b) Contract carriage: Hired for specific trip/duration
+    - Tourist vehicles
+    - Call taxis / cab services
+    - App-based cabs (Ola, Uber, etc.)
+(c) Private service vehicle: Company buses, employee transport
+(d) Educational institution bus: School buses, college buses
+(e) Auto-rickshaws: Three-wheeled passenger vehicles
+(f) E-rickshaws: Battery-operated three-wheelers
+
+### 3. Types of Permits
+(a) Goods Carriage Permit: For operating goods vehicle within a state
+(b) National Permit: For goods vehicles operating across states (validity: all India)
+(c) Stage Carriage Permit: For bus operations on fixed routes
+(d) Contract Carriage Permit: For taxis, tourist vehicles
+(e) Private Service Vehicle Permit: For non-public transport (employee buses)
+(f) All India Tourist Permit (AITP): For tourist vehicles operating across states
+(g) Special Permit: Temporary permit for specific occasions
+(h) Temporary Permit: Valid for 4 months, for specific purpose
+
+## PART B — GOODS VEHICLE RULES
+
+### Loading and Overloading
+(a) Maximum permissible weight: As per RC (Gross Vehicle Weight stated in registration)
+(b) Overloading penalty (Section 194 read with Section 113):
+    - Up to 5% over limit: Warning
+    - 5-10% over limit: Fine Rs 2,000 + Rs 1,000 per additional tonne
+    - Above 10% over limit: Fine Rs 2,000 + Rs 2,000 per additional tonne; vehicle to be unloaded
+(c) Weighbridge: Vehicle can be checked at any government weighbridge
+(d) Repeat overloading: Permit may be suspended/cancelled
+(e) Axle load limits: As per Central Government notification
+(f) Penalty for carrying passengers in goods vehicle: Rs 2,000 base + Rs 1,000 per extra person (Section 182B)
+
+### Documents Required for Goods Vehicle Operation
+1. Registration Certificate (RC) — valid
+2. Fitness Certificate — valid (annual renewal)
+3. Goods Carriage Permit or National Permit — valid
+4. Insurance Certificate — valid (TP mandatory + goods-in-transit optional)
+5. Driving Licence — valid for the vehicle category (HMV/HGV)
+6. PUC Certificate — valid
+7. Tax payment receipt (road tax + goods tax where applicable)
+8. Way bill / Transport receipt (for goods being carried)
+9. E-way bill (for goods value exceeding Rs 50,000 — GST requirement)
+
+### National Permit Rules
+(a) Application: To home state transport authority
+(b) Validity: 5 years (renewable)
+(c) Fee: Annual fee + state authorisation fees (composite fee since 2019)
+(d) National Permit number plate: Yellow background with "NP" displayed
+(e) Vehicle must comply with fitness standards of all states transited
+(f) Composite fee: Single fee covering all state authorisations (replaces per-state fee)
+(g) GPS/tracking device: Mandatory for National Permit vehicles
+
+### Hours of Driving
+(a) Maximum continuous driving: 4 hours without break
+(b) Maximum in 24 hours: 8 hours for goods vehicle, 10 hours for LMV
+(c) Mandatory rest: 30 minutes after every 4 hours of driving
+(d) Speed governor: Mandatory for all commercial vehicles
+    - HGV: Limited to 80 km/h
+    - Buses: Limited to 80 km/h (100 km/h on expressways where permitted)
+(e) Tachograph / Vehicle tracking: Mandatory for vehicles with National Permit
+
+## PART C — TAXI AND AUTO-RICKSHAW RULES
+
+### Taxi / Cab Rules
+(a) Contract Carriage Permit required
+(b) Fare meter: Mandatory (electronic digital meter)
+(c) Fare chart: Must be displayed inside vehicle
+(d) Fare rates: Fixed by state/city transport authority
+(e) Refusal to ply: Offence under Section 178 (fine Rs 500)
+(f) Overcharging: Offence — complaint to transport authority
+(g) Driver must: Display driver ID, keep vehicle clean, follow route requested
+(h) AC taxis: Higher fare rate applies (as fixed by authority)
+(i) Prepaid taxi: Available at airports, railway stations — fixed fare
+
+### App-Based Cab Aggregator Rules (Section 93, MV Act 2019)
+(a) Aggregator must obtain licence from state transport authority
+(b) Licence fee: As prescribed by state
+(c) Aggregator must:
+    - Comply with IT Act and data protection requirements
+    - Share ride data with government upon request
+    - Display fare estimate before booking
+    - Issue electronic receipt after ride
+    - Ensure driver and vehicle verification
+    - Provide safety features (SOS button, ride sharing, GPS tracking)
+    - Maintain insurance for passengers
+(d) Surge pricing: Must not exceed prescribed cap (varies by state)
+    - Delhi: Maximum 3x base fare
+    - Karnataka: Maximum 2x base fare (court-ordered cap)
+    - Maharashtra: As per state notification
+(e) Penalty for violations: Rs 25,000 (first), up to Rs 1,00,000 (repeat) — Section 193
+(f) Licence cancellation for repeated violations
+
+### Auto-Rickshaw Rules
+(a) Permit: Contract carriage permit from Regional Transport Authority
+(b) Fare meter: Mandatory (electronic, calibrated)
+(c) Minimum fare: As fixed by state/city authority (typically Rs 20-30 for first km)
+(d) Per km rate: As fixed by authority (typically Rs 10-20 per km)
+(e) Waiting charges: As per meter settings
+(f) Refusal to ply: Fine Rs 500 (Section 178); can file complaint to traffic police
+(g) Overcharging: Fine; complaint to transport authority
+(h) Share auto / pooling: Permitted in some cities (separate permit/route required)
+(i) Driver ID: Must be displayed inside auto
+(j) Route restrictions: May apply in some cities
+
+### Auto-Rickshaw and Taxi Fare Complaint Process
+1. Note vehicle registration number and driver details
+2. Note meter reading and actual fare demanded
+3. File complaint:
+   (a) Traffic police app (city-specific)
+   (b) State transport department helpline
+   (c) Consumer court (for significant overcharging)
+   (d) City traffic police website
+4. Common complaint channels:
+   - Delhi: 1095 (traffic helpline)
+   - Mumbai: 103 (traffic helpline)
+   - Bangalore: 080-22942222
+   - Chennai: 103
+   - Kolkata: 1073
+
+## PART D — BUS AND PUBLIC TRANSPORT RULES
+
+### Stage Carriage (Bus) Regulations
+(a) Stage carriage permit required for each route
+(b) Route, schedule, and stops fixed by Regional Transport Authority
+(c) Fare: Fixed by state transport authority
+(d) Bus must display: Route number, origin-destination, fare chart
+(e) Conductor must: Issue tickets, maintain order, assist passengers
+(f) Reserved seats: For women, elderly, disabled persons, pregnant women
+(g) Standing passengers: Limited to as per permit (typically 100% of seating capacity)
+(h) Overloading: Offence — permit holder and driver liable
+
+### Safety Requirements for Buses
+(a) Fire extinguisher: Mandatory (2 units)
+(b) First aid kit: Mandatory
+(c) Emergency exit: At least 1 (rear/side)
+(d) Emergency hammer: For breaking glass in emergency
+(e) GPS tracking: Mandatory for new buses
+(f) Speed governor: Mandatory (limited to 80 km/h)
+(g) CCTV cameras: Mandatory for interstate buses (recommended for all)
+(h) Panic button: For women's safety
+(i) Emergency contact numbers: Displayed prominently
+(j) Destination board: Illuminated at night
+
+### Interstate Bus Travel
+(a) Permit must cover origin and destination states
+(b) All India Tourist Permit or interstate agreement required
+(c) Private bus operators must have valid permit for each route
+(d) Passengers: Must carry valid ticket; penalty for ticketless travel Rs 500 (Section 178)
+(e) Luggage limits: As per operator policy; excess charge applies
+(f) Night travel: Driver must have co-driver for journeys exceeding 8 hours
+
+## PART E — E-RICKSHAW AND ELECTRIC TRANSPORT VEHICLE RULES
+
+### E-Rickshaw Registration
+(a) Must be registered with RTO
+(b) Green number plate
+(c) Battery-operated only (lead-acid or lithium-ion)
+(d) Maximum speed: 25 km/h
+(e) Seating capacity: 3 passengers + 1 driver (standard)
+(f) Must comply with CMVR and ARAI standards
+
+### E-Rickshaw Driver Requirements
+(a) Minimum age: 18 years
+(b) Driving licence: E-rickshaw category (simplified test)
+(c) Training certificate from authorised training centre
+(d) No minimum educational qualification required
+(e) Aadhaar card mandatory
+
+### E-Rickshaw Permits and Fees
+(a) Many cities/states have simplified permit process for e-rickshaws
+(b) Reduced permit fees (or exempt) in many states
+(c) No road tax in most states
+(d) Pollution check: Not required (electric vehicle)
+(e) Insurance: Mandatory (third-party)
+
+### Electric Vehicle Transport Incentives
+(a) FAME-II subsidy for commercial EVs
+(b) Reduced/zero road tax in many states
+(c) Reduced/zero registration fee
+(d) Special EV zones in some cities (only EVs allowed)
+(e) Incentives for fleet operators to electrify
+
+## PART F — OVERLOADING AND WEIGHT RULES
+
+### Permissible Axle Loads
+Single axle (2 tyres): 6,000 kg
+Single axle (4 tyres): 10,200 kg
+Tandem axle (8 tyres): 19,000 kg
+Tridem axle (12 tyres): 24,000 kg
+
+### Maximum Gross Vehicle Weight
+2-axle rigid vehicle: 18,000 kg (Revised: 18,500 kg for new trucks)
+3-axle rigid vehicle: 25,000 kg (Revised: 28,500 kg)
+4-axle rigid vehicle: 31,000 kg (Revised: 35,200 kg)
+5-axle articulated vehicle: 36,000 kg (Revised: 40,200 kg)
+6-axle articulated vehicle: 40,000 kg (Revised: 44,000 kg)
+
+Note: Revised limits notified by MoRTH in 2018 to increase carrying capacity
+
+### Overloading Detection
+(a) Static weighbridges at checkpoints
+(b) Weigh-in-motion (WIM) systems on highways
+(c) Portable weighing equipment
+(d) Random checks by RTO enforcement officers
+
+### Penalties for Overloading
+(a) Fine: Rs 2,000 + Rs 1,000 per additional tonne (or part thereof)
+(b) Vehicle detained until excess load removed
+(c) Permit can be suspended for repeated overloading
+(d) Road damage caused: Owner liable for repair costs
+(e) Criminal liability if overloading causes accident
+
+## PART G — FITNESS CERTIFICATE AND VEHICLE INSPECTION
+
+### Applicability
+Mandatory for all transport vehicles (goods and passenger)
+Not required for personal/non-transport vehicles until 15 years old
+
+### Fitness Test Components
+1. Braking efficiency (service brake and parking brake)
+2. Steering alignment and play
+3. Suspension condition
+4. Tyre condition and tread depth (minimum 1.6 mm)
+5. Lighting system (headlights, tail lights, indicators, brake lights)
+6. Horn functionality
+7. Windshield wiper functionality
+8. Rear-view mirrors
+9. Exhaust emissions (BS-VI compliance)
+10. Speedometer accuracy
+11. Body/chassis condition
+12. Safety equipment (fire extinguisher, first aid kit, reflectors)
+13. Glass (windshield) condition (no cracks obstructing vision)
+
+### Fitness Certificate Validity
+New transport vehicle: 2 years from date of registration
+Subsequent renewals: 1 year
+Application for renewal: 30-60 days before expiry
+
+### Automated Testing Stations (ATS)
+As per 2019 amendment, government is establishing automated fitness testing stations:
+(a) Computer-controlled testing equipment
+(b) No manual intervention in pass/fail decision
+(c) Reduces corruption in fitness certification
+(d) Video recording of entire test
+(e) Result uploaded to Vahan portal automatically
+(f) Being rolled out in phases across India
+
+## PART H — SPEED GOVERNOR RULES
+
+### Mandatory for
+(a) All transport vehicles (goods and passenger)
+(b) School buses
+(c) All vehicles with GVW above 3,500 kg
+
+### Speed Limits
+Light transport vehicles: 80 km/h
+Medium/heavy goods vehicles: 80 km/h
+Buses: 80 km/h (100 km/h on expressways where state permits)
+School buses: 40 km/h
+
+### Requirements
+(a) Speed governor must be tamper-proof
+(b) Must be of approved type (ARAI/ICAT certified)
+(c) Calibration certificate required
+(d) Annual inspection
+(e) Tampering with speed governor: Fine Rs 5,000 (first), Rs 10,000 (repeat) + fitness certificate cancellation
+(f) Speed governor must be connected to vehicle's fuel injection system or electronic control module
+
+## PART I — HAZARDOUS GOODS TRANSPORT
+
+### What Constitutes Hazardous Goods
+As per CMVR and UN classification:
+Class 1: Explosives
+Class 2: Gases (compressed, liquefied, dissolved)
+Class 3: Flammable liquids (petrol, diesel, solvents)
+Class 4: Flammable solids
+Class 5: Oxidising substances
+Class 6: Toxic and infectious substances
+Class 7: Radioactive materials
+Class 8: Corrosive substances
+Class 9: Miscellaneous dangerous goods
+
+### Requirements for Hazardous Goods Transport
+(a) Special permit from transport authority
+(b) Vehicle must display hazard placards (diamond-shaped with UN number)
+(c) Tremcard (Transport Emergency Card) must be carried
+(d) Driver must undergo special training
+(e) Emergency equipment: Fire extinguisher (2), first aid, spill kit, PPE
+(f) Route restrictions: May not pass through populated areas, near schools/hospitals
+(g) Time restrictions: May apply in certain cities
+(h) Insurance: Special hazardous goods insurance required
+(i) Penalty for violation: Rs 3,000 (first), Rs 5,000 (repeat) + imprisonment up to 1 year (Section 191)
+
+### Petroleum/LPG Transport
+Additional regulations under:
+(a) Petroleum Rules, 2002
+(b) Static and Mobile Pressure Vessels Rules
+(c) PESO (Petroleum and Explosives Safety Organisation) guidelines
+(d) Vehicle must have spark arrestor
+(e) "FLAMMABLE" and "NO SMOKING" signs displayed
+(f) Grounding chain to prevent static electricity
+(g) Emergency valve to stop flow in case of accident

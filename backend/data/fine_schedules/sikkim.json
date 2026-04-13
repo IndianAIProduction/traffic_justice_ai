@@ -1,0 +1,26 @@
+{
+  "state": "Sikkim",
+  "state_code": "SK",
+  "description": "Sikkim traffic fine schedule — follows central rates",
+  "effective_date": "2019-10-01",
+  "gazette_notification": "Sikkim Transport Department notification 2019",
+  "source": "https://sikkim.gov.in/departments/transport-department",
+  "confidence": "low",
+  "notes": "Sikkim follows rates close to the central schedule. Limited traffic enforcement infrastructure compared to larger states.",
+  "sections": {
+    "177": {"offense": "General offenses", "first_offense": 500, "repeat": 1500, "imprisonment": null, "license_action": null, "notes": null},
+    "179": {"offense": "Disobedience of orders", "first_offense": 2000, "repeat": 4000, "imprisonment": null, "license_action": null, "notes": null},
+    "181": {"offense": "Driving without valid licence", "first_offense": 5000, "repeat": null, "imprisonment": null, "license_action": null, "notes": null},
+    "182": {"offense": "Driving despite disqualification", "first_offense": 10000, "repeat": null, "imprisonment": null, "license_action": null, "notes": null},
+    "183": {"offense": "Exceeding speed limit", "first_offense": 2000, "repeat": 4000, "imprisonment": null, "license_action": null, "notes": null},
+    "184": {"offense": "Dangerous driving", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": null},
+    "185": {"offense": "Drunken driving", "first_offense": 10000, "repeat": 15000, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": null},
+    "190": {"offense": "Using vehicle in unsafe condition", "first_offense": 5000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null},
+    "192": {"offense": "Using vehicle without registration", "first_offense": 5000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null},
+    "194": {"offense": "Driving without insurance", "first_offense": 2000, "repeat": 4000, "imprisonment": null, "license_action": null, "notes": null},
+    "194A": {"offense": "Not wearing seatbelt", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": null, "notes": null},
+    "194B": {"offense": "Two-wheeler without helmet", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": null, "notes": null},
+    "194D": {"offense": "Using mobile phone while driving", "first_offense": 5000, "repeat": 5000, "imprisonment": null, "license_action": null, "notes": null},
+    "199": {"offense": "Juvenile offences — guardian/owner liable", "first_offense": 25000, "repeat": null, "imprisonment": "Up to 3 years", "license_action": "Registration cancelled", "notes": null}
+  }
+}

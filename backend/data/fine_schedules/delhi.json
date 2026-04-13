@@ -1,0 +1,186 @@
+{
+  "state": "Delhi",
+  "description": "Delhi follows central penalty rates as per Motor Vehicles (Amendment) Act, 2019",
+  "effective_date": "2019-09-01",
+  "source": "Delhi Transport Department",
+  "confidence": "high",
+  "notes": "Delhi adopts full central fine rates. E-challan enforcement active.",
+  "sections": {
+    "177": {
+      "offense": "General offenses",
+      "first_offense": 500,
+      "repeat": 1500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Catch-all for unspecified offenses"
+    },
+    "177A": {
+      "offense": "Violation of road regulations",
+      "first_offense": 500,
+      "repeat": 1500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "179": {
+      "offense": "Disobedience of orders / refusal to give information",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": "Up to 6 months",
+      "license_action": null,
+      "notes": null
+    },
+    "180": {
+      "offense": "Allowing unauthorised persons to drive",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": null
+    },
+    "181": {
+      "offense": "Driving without valid driving licence",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": null
+    },
+    "182": {
+      "offense": "Driving despite disqualification",
+      "first_offense": 10000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": null
+    },
+    "183": {
+      "offense": "Exceeding speed limit (LMV)",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": null,
+      "license_action": "Seizure of licence for repeat",
+      "notes": "Heavy vehicles: Rs 4000/8000"
+    },
+    "184": {
+      "offense": "Dangerous driving",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": null,
+      "notes": null
+    },
+    "185": {
+      "offense": "Drunken driving / driving under influence",
+      "first_offense": 10000,
+      "repeat": 15000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": "Suspension possible",
+      "notes": "Strictly enforced in Delhi"
+    },
+    "186": {
+      "offense": "Driving when mentally or physically unfit",
+      "first_offense": 1000,
+      "repeat": 2000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "187": {
+      "offense": "Hit and run / failing to report accident",
+      "first_offense": null,
+      "repeat": null,
+      "imprisonment": "Up to 6 months (simple), up to 2 years (death)",
+      "license_action": null,
+      "notes": "Hit-and-run compensation: Rs 2,00,000 (death), Rs 50,000 (grievous hurt)"
+    },
+    "189": {
+      "offense": "Racing on public roads",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 month",
+      "license_action": null,
+      "notes": null
+    },
+    "192": {
+      "offense": "Using vehicle without registration",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 year",
+      "license_action": null,
+      "notes": null
+    },
+    "192A": {
+      "offense": "Using vehicle without valid permit",
+      "first_offense": 10000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 year (repeat)",
+      "license_action": null,
+      "notes": null
+    },
+    "194": {
+      "offense": "Driving without valid insurance",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": null
+    },
+    "194A": {
+      "offense": "Not wearing seatbelt (driver)",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "194B": {
+      "offense": "Riding without helmet",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": "3-month licence suspension",
+      "notes": "ISI mark helmet required"
+    },
+    "194C": {
+      "offense": "Not giving way to emergency vehicles",
+      "first_offense": 10000,
+      "repeat": 10000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "194D": {
+      "offense": "Using mobile phone while driving",
+      "first_offense": 5000,
+      "repeat": 5000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "194E": {
+      "offense": "Not wearing seatbelt (passengers)",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "194F": {
+      "offense": "Overloading two-wheeler",
+      "first_offense": 2000,
+      "repeat": 2000,
+      "imprisonment": "Up to 3 months (repeat)",
+      "license_action": "3-month licence suspension",
+      "notes": null
+    },
+    "199": {
+      "offense": "Juvenile driving — guardian/owner liability",
+      "first_offense": 25000,
+      "repeat": null,
+      "imprisonment": "Up to 3 years for guardian",
+      "license_action": "Vehicle registration cancelled",
+      "notes": null
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "state": "Central",
+  "description": "Motor Vehicles (Amendment) Act, 2019 - Central penalty schedule (maximum limits)",
+  "effective_date": "2019-09-01",
+  "gazette_notification": "The Motor Vehicles (Amendment) Act, 2019 (No. 32 of 2019)",
+  "source": "https://indiacode.nic.in",
+  "confidence": "high",
+  "notes": "These are the maximum penalties under the central act. States may adopt lower amounts.",
+  "sections": {
+    "177": {
+      "offense": "General offenses — violation of any provision of the Act",
+      "first_offense": 500,
+      "repeat": 1500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Catch-all for offenses not specified elsewhere"
+    },
+    "177A": {
+      "offense": "Violation of road regulations made by state government",
+      "first_offense": 500,
+      "repeat": 1500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Contravention of road regulations under state rules"
+    },
+    "178": {
+      "offense": "Travelling without ticket / refusing to pay fare in public transport",
+      "first_offense": 500,
+      "repeat": null,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Applicable to stage carriage passengers; also covers refusal to ply contract carriage"
+    },
+    "179": {
+      "offense": "Disobedience of orders of authority / refusal to give information",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": "Up to 6 months",
+      "license_action": null,
+      "notes": "Includes wilfully withholding or giving false information"
+    },
+    "180": {
+      "offense": "Allowing unauthorised persons to drive",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Owner liability for permitting unlicensed person to drive"
+    },
+    "181": {
+      "offense": "Driving without valid driving licence",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Contravention of Section 3 or Section 4"
+    },
+    "182": {
+      "offense": "Driving despite disqualification",
+      "first_offense": 10000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Driving when disqualified by court/authority order"
+    },
+    "182A": {
+      "offense": "Oversize vehicles — exceeding prescribed dimensions",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Minimum fine of Rs 5,000"
+    },
+    "182B": {
+      "offense": "Overloading of passengers in goods vehicle",
+      "first_offense": 2000,
+      "repeat": null,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Rs 2,000 base + Rs 1,000 per extra passenger"
+    },
+    "183": {
+      "offense": "Exceeding speed limit (LMV)",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": null,
+      "license_action": "Seizure of licence for repeat offence",
+      "notes": "For LMV. Heavy vehicles: Rs 4,000 first / Rs 8,000 repeat"
+    },
+    "183_heavy": {
+      "offense": "Exceeding speed limit (Medium/Heavy goods or passenger vehicle)",
+      "first_offense": 4000,
+      "repeat": 8000,
+      "imprisonment": null,
+      "license_action": "Seizure of licence for repeat offence",
+      "notes": "Applicable to medium/heavy goods and passenger motor vehicles"
+    },
+    "184": {
+      "offense": "Dangerous driving",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": null,
+      "notes": "Driving in a manner dangerous to public"
+    },
+    "185": {
+      "offense": "Drunken driving / driving under influence of drugs",
+      "first_offense": 10000,
+      "repeat": 15000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": null,
+      "notes": "BAC exceeding 30mg per 100ml blood"
+    },
+    "186": {
+      "offense": "Driving when mentally or physically unfit",
+      "first_offense": 1000,
+      "repeat": 2000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "187": {
+      "offense": "Offences relating to accidents — failing to report or fleeing",
+      "first_offense": null,
+      "repeat": null,
+      "imprisonment": "Up to 6 months (simple injury), up to 2 years (grievous hurt/death)",
+      "license_action": null,
+      "notes": "Fine up to Rs 5,000 for simple injury; imprisonment + fine for serious cases. Hit-and-run compensation: Rs 2,00,000 (death), Rs 50,000 (grievous hurt)"
+    },
+    "189": {
+      "offense": "Racing and speed trials without written permission",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 month",
+      "license_action": null,
+      "notes": "Requires written consent of State Government"
+    },
+    "190": {
+      "offense": "Using vehicle in unsafe condition / without registration",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 year",
+      "license_action": null,
+      "notes": "Vehicle that involves danger to public or doesn't comply with requirements"
+    },
+    "192": {
+      "offense": "Using vehicle without valid registration",
+      "first_offense": 5000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 year",
+      "license_action": null,
+      "notes": "Contravention of Section 39"
+    },
+    "192A": {
+      "offense": "Using vehicle without valid permit",
+      "first_offense": 10000,
+      "repeat": 10000,
+      "imprisonment": "Up to 1 year (repeat)",
+      "license_action": null,
+      "notes": "Applicable to transport vehicles; minimum Rs 5,000"
+    },
+    "193": {
+      "offense": "Aggregator (cab aggregator) violations",
+      "first_offense": 25000,
+      "repeat": 100000,
+      "imprisonment": null,
+      "license_action": "Cancellation of licence for repeat",
+      "notes": "New section added by 2019 amendment for ride-hailing services"
+    },
+    "194": {
+      "offense": "Driving without valid insurance (third-party)",
+      "first_offense": 2000,
+      "repeat": 4000,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Mandatory third-party insurance under Section 146"
+    },
+    "194A": {
+      "offense": "Failure to wear seatbelt (driver)",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": null
+    },
+    "194B": {
+      "offense": "Two-wheeler riding without helmet",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": "3-month licence suspension",
+      "notes": "Helmet must conform to BIS standards (IS 4151)"
+    },
+    "194C": {
+      "offense": "Not giving way to emergency vehicles",
+      "first_offense": 10000,
+      "repeat": 10000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Ambulance, fire engine, police vehicle on emergency duty"
+    },
+    "194D": {
+      "offense": "Using handheld mobile phone while driving",
+      "first_offense": 5000,
+      "repeat": 5000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Includes any handheld communication device"
+    },
+    "194E": {
+      "offense": "Not wearing seatbelt (passengers / all occupants)",
+      "first_offense": 1000,
+      "repeat": 1000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Covers driver and all passengers"
+    },
+    "194F": {
+      "offense": "Overloading of two-wheelers",
+      "first_offense": 2000,
+      "repeat": 2000,
+      "imprisonment": "Up to 3 months (repeat)",
+      "license_action": "3-month licence suspension",
+      "notes": "Carrying more than one pillion rider"
+    },
+    "196": {
+      "offense": "Driving transport vehicle without valid fitness certificate",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Minimum fine of Rs 5,000 for transport vehicles"
+    },
+    "199": {
+      "offense": "Offences by juveniles — parent/guardian/owner liability",
+      "first_offense": 25000,
+      "repeat": null,
+      "imprisonment": "Up to 3 years for guardian/owner",
+      "license_action": "Registration of vehicle cancelled",
+      "notes": "Guardian deemed guilty; juvenile treated under JJ Act. Vehicle registration cancelled."
+    }
+  }
+}

@@ -1,0 +1,231 @@
+STATE-SPECIFIC RTO RULES — SOUTH INDIA
+Covers: Tamil Nadu, Kerala, Karnataka, Andhra Pradesh, Telangana, Puducherry, Lakshadweep
+
+## TAMIL NADU
+
+### Tamil Nadu Motor Vehicles Taxation Act, 1974
+Road tax rates:
+- Two-wheelers up to 100cc: Rs 1,200 (one-time)
+- Two-wheelers 100-170cc: Rs 2,000 (one-time)
+- Two-wheelers above 170cc: Rs 3,000 (one-time)
+- Cars up to 1000cc: 6% of vehicle cost
+- Cars 1000-1500cc: 8%
+- Cars 1500-2000cc: 10%
+- Cars above 2000cc: 12%
+- Diesel surcharge: 2% additional
+- Electric vehicles: 100% road tax exemption (TN EV Policy 2023)
+- Hybrid vehicles: 50% road tax reduction
+
+### Tamil Nadu-Specific Traffic Rules
+(a) Tamil Nadu has partially adopted central 2019 fine rates:
+    Some fines reduced by state notification:
+    - No helmet (194B): Rs 500 (reduced from Rs 1,000) first offence
+    - General offence (177): Rs 250 (reduced from Rs 500)
+    - Overspeeding (183): Rs 1,000 (reduced from Rs 2,000) for LMV
+(b) Chennai-specific rules:
+    - Heavy vehicle entry: Restricted 8 AM to 10 PM in city
+    - Parking: Multi-level and automated parking in key areas
+    - One-way traffic system extensively used
+    - Beach Road: Specific speed restrictions
+(c) E-challan: Active in Chennai, Coimbatore, Madurai, Trichy, Salem
+(d) ANPR cameras: Deployed on Chennai OMR, ECR, NH
+(e) Special enforcement: During Tamil New Year, Pongal, festivals
+(f) Flood protocol: Vehicle operation rules during Chennai monsoon floods
+
+### Tamil Nadu Transport Corporation (TNSTC/SETC)
+- Multiple corporations: TNSTC, SETC, MTC (Chennai city)
+- Extensive network covering all districts
+- Online booking: tnstc.in
+- Concessional passes: Students, senior citizens, disabled persons, freedom fighters
+
+### RTO Network
+36+ RTOs across Tamil Nadu
+Main RTO: Chennai (Anna Salai)
+Website: tnsta.gov.in
+Transport Commissioner: Chennai
+Helpline: 044-25384999
+
+### Chennai City Traffic Rules
+(a) Signal-free corridor: OMR, Mount Road sections
+(b) Bus rapid transit: Under development
+(c) Metro rail integration: Park-and-ride facilities
+(d) Coastal regulation: No parking on beach roads
+(e) IT corridor speed limit: 40 km/h during peak hours
+
+## KERALA
+
+### Kerala Motor Vehicles Taxation Act, 1976
+Road tax rates:
+- Two-wheelers: 6% of vehicle cost (one-time, lifetime)
+- Cars up to 1000cc: 6%
+- Cars 1000-1500cc: 7%
+- Cars 1500-2500cc: 8%
+- Cars above 2500cc: 10%
+- SUVs/luxury vehicles above Rs 20 lakhs: 20% (highest in India)
+- Diesel vehicles: Same rates (no additional surcharge, but higher base rate for expensive vehicles)
+- Electric vehicles: 50% reduction in road tax
+
+### Kerala-Specific Traffic Rules
+(a) Kerala has kept most central fine rates:
+    - Drunken driving: Strictly enforced, especially during Onam and Christmas
+    - Mobile phone use: Rs 5,000 — strictly enforced
+(b) Monsoon/flood protocol: Road closure announcements, vehicle operation restrictions during heavy rains
+(c) Hill station rules: Ghat roads — special speed limits, horn usage mandatory on blind corners
+(d) Tourist vehicle permits: Strict enforcement on Munnar, Wayanad, Thekkady routes
+(e) Water transport: Separate licensing for boat/ferry operations
+(f) Autorickshaw fare: Strictly regulated — meter mandatory in all districts
+(g) Night driving restrictions: For tourist buses on ghat roads (some sections)
+
+### Kerala State Road Transport Corporation (KSRTC)
+- Extensive network ("The lifeline of Kerala")
+- Online booking: keralartc.com
+- Premium services: Garuda, Minnal, Swift
+- Women-only buses on select routes
+
+### Kerala RTO
+14 RTOs across districts
+Main RTO: Thiruvananthapuram
+Website: mvd.kerala.gov.in
+Helpline: 0471-2328799
+Online services: Extensive — DL, RC, tax payment, fitness, all available online
+
+### Kerala-Specific Issues
+(a) High road accident rate per vehicle: Enhanced enforcement measures
+(b) Drink driving: Zero tolerance during festivals
+(c) Tourist bus safety: Strict fitness checks before Sabarimala season
+(d) Waterlogging: Traffic diversion protocols during monsoon
+
+## KARNATAKA
+
+### Karnataka Motor Vehicles Taxation Act, 1957
+Road tax rates:
+- Two-wheelers: 10-12% of vehicle cost (one-time, lifetime)
+- Cars up to Rs 5 lakhs: 13%
+- Cars Rs 5-10 lakhs: 14%
+- Cars Rs 10-20 lakhs: 17%
+- Cars above Rs 20 lakhs: 18%
+- Electric vehicles: Tax exemption under Karnataka EV Policy 2021
+- Government vehicles: Exempted
+
+### Karnataka-Specific Traffic Rules
+(a) Karnataka follows central fine rates largely
+(b) Bengaluru-specific rules:
+    - Heavy vehicle entry: Restricted 6 AM to 10 PM (inner ring road area)
+    - Auto-rickshaw fare: Minimum Rs 30, Rs 15/km thereafter (with meter)
+    - Taxi aggregator cap: Maximum 2x surge during peak hours
+    - Parking: Smart parking system in CBD area
+    - Metro integration: Park-and-ride facilities at metro stations
+    - Signal priority: For BMTC buses on select routes
+(c) E-challan: Active across Bengaluru, Mysuru, Hubli-Dharwad, Mangaluru
+(d) ANPR: Deployed on major Bengaluru roads and highways
+(e) Eco-sensitive zones: Speed limits near Bandipur, Nagarhole national parks
+(f) Night driving ban: On Bandipur stretch of NH 766 (Mysuru-Kerala highway)
+
+### Karnataka State Road Transport Corporation (KSRTC)
+- KSRTC and BMTC (Bengaluru city), NWKRTC (North-West), NEKRTC (North-East)
+- Premium: Airavat Club Class, Ambari
+- Online booking: ksrtc.in
+- Concessional: Students, senior citizens, journalists
+
+### Karnataka RTO
+30+ RTOs
+Main RTO: Bengaluru (Koramangala)
+Website: transport.karnataka.gov.in
+Helpline: 080-22942222
+Online: Comprehensive online services via Kaveri/Vahan
+
+## ANDHRA PRADESH
+
+### AP Motor Vehicles Taxation Act, 1963
+Road tax rates:
+- Two-wheelers: 9-12% of vehicle cost (one-time)
+- Cars up to Rs 10 lakhs: 12%
+- Cars Rs 10-20 lakhs: 14%
+- Cars above Rs 20 lakhs: 16%
+- Diesel vehicles: Additional 2% surcharge
+- Electric vehicles: 100% exemption (AP EV Policy)
+
+### AP-Specific Traffic Rules
+(a) AP follows central fine rates
+(b) E-challan: Active in Vijayawada, Visakhapatnam, Tirupati, Guntur, Kakinada
+(c) New capital roads (Amaravati): Speed enforcement on new highway stretches
+(d) Tirupati pilgrimage traffic: Special traffic management during festivals
+(e) Coastal road rules: Speed restrictions during cyclone warnings
+(f) Sand transport: Strict permits required, GPS tracking mandatory
+(g) Toll-free roads: Some state highways toll-free for two-wheelers
+
+### AP State Road Transport Corporation (APSRTC)
+- Extensive network across 13 districts
+- Online booking: apsrtconline.in
+- Premium: Garuda Plus, Indra, Vennela (night services)
+- Tirupati special services
+
+### AP RTO
+26+ RTOs
+Main RTO: Vijayawada
+Website: aptransport.org
+Helpline: 0866-2490433
+
+## TELANGANA
+
+### Telangana Motor Vehicles Taxation Act
+Road tax rates (similar to AP with some variations):
+- Two-wheelers: 9-12%
+- Cars up to Rs 10 lakhs: 12%
+- Cars Rs 10-20 lakhs: 14%
+- Cars above Rs 20 lakhs: 16%
+- Electric vehicles: 100% road tax exemption (Telangana EV Policy 2020-2030)
+
+### Telangana-Specific Traffic Rules
+(a) Telangana follows central fine rates
+(b) Hyderabad-specific rules:
+    - Traffic Integration: Hyderabad Traffic Police app (HTRIP)
+    - E-challan: Fully electronic, AI-based violation detection
+    - Speed cameras: Extensive network on ORR (Outer Ring Road) and NH
+    - Heavy vehicle entry: Restricted in inner city 7 AM to 10 PM
+    - Auto fare: Minimum Rs 25, Rs 12/km
+    - IT corridor (HITEC City): Special traffic arrangements during peak hours
+(c) ANPR cameras: Deployed across Hyderabad, Cyberabad area
+(d) Real-time traffic monitoring: Command and control centre
+(e) Drone surveillance: For major events and congestion monitoring
+
+### Telangana State Road Transport Corporation (TSRTC)
+- Online booking: tsrtconline.in
+- Premium: Garuda Plus, Super Luxury
+- Concessional passes available
+
+### Telangana RTO
+31+ RTOs
+Main RTO: Hyderabad (Khairatabad)
+Website: transport.telangana.gov.in
+Helpline: 040-23262669
+Cyberabad Traffic Police: 040-27853530
+
+## PUDUCHERRY (Union Territory)
+
+### Puducherry Motor Vehicles Tax
+Road tax rates (generally lower than neighbouring states):
+- Two-wheelers: 4-6%
+- Cars: 5-8%
+- Electric vehicles: Reduced rates
+
+### Puducherry-Specific Rules
+(a) Follows central fine rates
+(b) Tourist destination: Special traffic management during French Quarter events
+(c) Beach road: Speed restrictions, no heavy vehicles
+(d) Auroville area: Special vehicle restrictions
+(e) Smaller RTO — simpler procedures
+
+### Puducherry RTO
+Website: transport.py.gov.in
+Single main RTO office
+
+## LAKSHADWEEP (Union Territory)
+
+### Lakshadweep Transport Rules
+(a) Very limited motorised transport
+(b) Electric vehicles encouraged
+(c) Speed limits very low (island roads)
+(d) Registration through UT administration
+(e) Minimal traffic enforcement (low vehicle density)
+(f) Boats/ferries: Separate licensing under maritime rules

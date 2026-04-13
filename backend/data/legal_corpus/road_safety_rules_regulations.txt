@@ -1,0 +1,366 @@
+ROAD SAFETY RULES AND REGULATIONS — COMPREHENSIVE GUIDE
+(Based on Motor Vehicles Act 1988, CMVR 1989, Indian Road Congress guidelines, and State Traffic Rules)
+
+## PART A — RULES OF THE ROAD (LEFT-HAND TRAFFIC SYSTEM)
+
+### 1. Fundamental Rules
+India follows left-hand traffic (LHT) system. All vehicles must:
+(a) Drive on the left side of the road at all times
+(b) Overtake only from the right side
+(c) At uncontrolled intersections, give way to traffic coming from the right
+(d) At roundabouts, give way to traffic already in the roundabout (traffic from the right)
+(e) Pedestrians have right of way at zebra crossings
+(f) Emergency vehicles have absolute right of way at all times
+
+### 2. Lane Discipline
+(a) Slow-moving vehicles: Extreme left lane
+(b) Medium-speed vehicles: Middle lane
+(c) Fast-moving vehicles: Right lane (for overtaking only on highways)
+(d) Two-wheelers: Left lane in city traffic
+(e) Heavy vehicles: Extreme left lane on highways
+(f) Do not straddle lane markings
+(g) Change lanes only after checking mirrors and using indicators
+(h) Minimum distance between vehicles: 2-second rule (maintain gap of 2 seconds behind the vehicle ahead)
+
+### 3. Overtaking Rules
+(a) Overtake only from the right side
+(b) Never overtake on a curve, hill crest, narrow bridge, or intersection
+(c) Never overtake when road visibility is less than 150 metres
+(d) Use horn or flash headlights to signal intention to overtake
+(e) Do not overtake when the vehicle ahead is signalling to turn right
+(f) After overtaking, return to the left lane safely
+(g) The overtaken vehicle must not increase speed
+(h) On single-lane roads with two-way traffic, overtake only when the opposite lane is clear
+(i) Never overtake on a continuous white/yellow centre line
+
+### 4. Right of Way
+Priority order at intersections:
+(a) Emergency vehicles (ambulance, fire brigade, police)
+(b) Vehicles on the main road (over vehicles from side roads)
+(c) Vehicles from the right (at uncontrolled intersections)
+(d) Vehicles already in the roundabout
+(e) Pedestrians at zebra crossings
+
+### 5. Turning Rules
+Left turn:
+(a) Stay in the left lane
+(b) Signal left well in advance (at least 30 metres before turn)
+(c) Slow down and check for pedestrians and cyclists
+(d) Give way to pedestrians crossing the road you are turning into
+
+Right turn:
+(a) Move to the centre of the road or right-turn lane
+(b) Signal right well in advance
+(c) Give way to oncoming traffic
+(d) Turn only when safe, without obstructing other traffic
+
+U-turn:
+(a) Permitted only where allowed (no U-turn signs must be obeyed)
+(b) Signal and check mirrors before U-turn
+(c) Give way to all other traffic
+(d) Never make U-turn on highways/expressways (use designated turnarounds)
+
+### 6. One-Way Roads
+(a) Follow the direction indicated by signs
+(b) When entering a one-way road, give way to existing traffic
+(c) On one-way roads, overtaking can be from either side (but left overtaking is not recommended)
+(d) Penalty for driving against one-way: Rs 500 to Rs 1,500 (Section 177)
+
+## PART B — TRAFFIC SIGNALS AND SIGNS
+
+### 1. Traffic Light Signals
+RED: Stop. Do not cross the stop line. Vehicles must wait behind the stop line.
+FREE LEFT TURN: Left turn allowed on red signal where indicated (varies by city)
+YELLOW/AMBER: Prepare to stop. Do not enter intersection if safely able to stop.
+GREEN: Proceed with caution. Give way to pedestrians already crossing.
+GREEN ARROW: Proceed only in direction of arrow.
+FLASHING RED: Treat as stop sign. Stop completely and proceed when safe.
+FLASHING YELLOW: Proceed with caution. Slow down.
+
+### 2. Mandatory Signs (Circular with Red Border)
+STOP: Complete stop required
+GIVE WAY: Slow down and give way to traffic on main road
+NO ENTRY: Entry prohibited from this direction
+ONE WAY: Traffic flows in indicated direction only
+SPEED LIMIT: Maximum speed allowed (number inside circle)
+NO PARKING: Parking prohibited
+NO STOPPING: No stopping or standing
+NO HORN: Horn use prohibited
+NO OVERTAKING: Overtaking prohibited
+NO U-TURN: U-turn prohibited
+NO LEFT TURN / NO RIGHT TURN: Turn in indicated direction prohibited
+WEIGHT LIMIT: Vehicles above indicated weight prohibited
+HEIGHT LIMIT: Vehicles above indicated height prohibited
+COMPULSORY TURN: Must turn in indicated direction
+COMPULSORY KEEP LEFT: Must stay on left side of divider/island
+
+### 3. Cautionary/Warning Signs (Triangular with Red Border)
+RIGHT CURVE / LEFT CURVE: Road curves ahead
+SHARP BEND: Sharp turn ahead
+STEEP ASCENT / STEEP DESCENT: Hill ahead
+NARROW ROAD: Road narrows ahead
+NARROW BRIDGE: Bridge is narrower than road
+SCHOOL AHEAD: School zone — slow down
+PEDESTRIAN CROSSING: Zebra crossing ahead
+SPEED BREAKER: Speed bump/breaker ahead
+RAILWAY CROSSING (WITH/WITHOUT GATE): Level crossing ahead
+FALLING ROCKS: Rockfall zone
+SLIPPERY ROAD: Road may be slippery when wet
+MEN AT WORK: Construction zone
+CYCLE CROSSING: Bicycle crossing ahead
+CATTLE: Animals may cross road
+GAP IN MEDIAN: Opening in road divider ahead
+
+### 4. Informatory Signs (Rectangular, Blue/Green)
+HOSPITAL: Hospital nearby
+PETROL PUMP: Fuel station nearby
+PARKING: Parking area available
+FIRST AID: First aid post nearby
+TELEPHONE: Public telephone nearby
+EATING PLACE: Restaurant nearby
+REST AREA: Rest stop nearby
+NO THROUGH ROAD: Dead end
+TOURIST PLACE: Point of interest ahead
+HIGHWAY DISTANCE MARKERS: Distance to next city/town
+
+### 5. Road Markings
+WHITE CONTINUOUS LINE (centre): No overtaking, no crossing
+WHITE BROKEN LINE (centre): Overtaking permitted if safe
+YELLOW SINGLE LINE (edge): No parking on this side
+YELLOW DOUBLE LINE (edge): No parking and no stopping
+ZEBRA CROSSING: Black and white stripes — pedestrian crossing; vehicles must stop if pedestrians are crossing
+STOP LINE: Thick white line at intersections — vehicles must stop behind this line
+BOX JUNCTION: Yellow hatched box — do not enter unless exit is clear
+SPEED LIMIT MARKINGS: Speed painted on road surface
+BUS LANE MARKINGS: Reserved lane for buses
+CYCLE LANE MARKINGS: Reserved lane for bicycles
+
+## PART C — SPEED LIMITS IN INDIA
+
+### National Speed Limits (Default)
+Vehicle Type | City | State Highway | National Highway | Expressway
+Passenger cars | 50 km/h | 80 km/h | 100 km/h | 120 km/h
+Two-wheelers | 40 km/h | 60 km/h | 80 km/h | Not allowed*
+Auto-rickshaws | 35 km/h | 50 km/h | Not allowed | Not allowed
+Light goods vehicle | 50 km/h | 70 km/h | 80 km/h | 100 km/h
+Heavy goods vehicle | 40 km/h | 60 km/h | 60-80 km/h | 80 km/h
+Buses | 40 km/h | 70 km/h | 80 km/h | 100 km/h
+School buses | 40 km/h | 40 km/h | 40 km/h | Not allowed
+Tractors | 25 km/h | 30 km/h | Not allowed | Not allowed
+
+*Two-wheelers may be restricted on certain expressways (e.g., Mumbai-Pune Expressway allows two-wheelers above 100cc)
+
+### Special Zone Speed Limits
+School zones: 25 km/h
+Hospital zones: 25 km/h
+Residential areas: 30 km/h
+Construction zones: As marked (typically 20-30 km/h)
+
+### State-Specific Speed Variations
+States may set different speed limits from the national default:
+- Delhi: City limit 50 km/h for cars; 40 km/h for commercial vehicles
+- Maharashtra: 80 km/h on Mumbai-Pune Expressway for heavy vehicles
+- Karnataka: 100 km/h on state highways for cars
+- Tamil Nadu: 90 km/h on national highways for cars
+Note: Always follow posted speed limit signs which override default limits.
+
+## PART D — PARKING RULES
+
+### Legal Parking
+(a) Park only in designated parking areas or where parking is permitted
+(b) Park parallel to the road edge, close to the left kerb
+(c) In marked parking zones, park within marked bay only
+(d) Pay parking fee where applicable (many cities have automated parking systems)
+(e) Display parking receipt/token on dashboard where required
+
+### Illegal Parking (No Parking Zones)
+You must NOT park:
+(a) At or near road intersections (within 50 metres)
+(b) On or near pedestrian crossings
+(c) On footpaths or cycle tracks
+(d) Near fire hydrants
+(e) At bus stops
+(f) On bridges or flyovers
+(g) Near traffic signals
+(h) In front of entrances to buildings/driveways
+(i) On the main carriageway of national highways
+(j) Where no-parking signs are displayed
+(k) On double yellow line marked roads (no stopping)
+(l) On single yellow line marked roads during restricted hours
+
+### Parking Penalties
+Wrong parking (Section 177): Rs 500 (first offence), Rs 1,500 (repeat)
+City-specific towing charges:
+- Delhi: Rs 400 (two-wheeler), Rs 700-2,000 (four-wheeler) + Rs 150-500/day storage
+- Mumbai: Rs 500-2,500 + storage charges
+- Bangalore: Rs 500-2,000 + storage charges
+- Chennai: Rs 400-1,500 + storage charges
+Note: Towing charges vary by city and are set by municipal/traffic authorities
+
+## PART E — HELMET AND SEATBELT RULES
+
+### Helmet Rules (Section 129 read with Section 194B)
+(1) Helmet is mandatory for:
+    (a) Rider (driver) of any two-wheeler
+    (b) Pillion rider (passenger on rear)
+    (c) Child pillion rider (child helmet required)
+(2) Helmet must conform to BIS standard IS 4151
+    (a) ISI mark must be present on helmet
+    (b) Must have chin strap fastened while riding
+    (c) Non-ISI helmets provide no legal compliance
+    (d) Visor must not be excessively tinted (50%+ light transmission required)
+(3) Exemption: Sikh persons wearing turban are exempt (Section 129)
+(4) Penalty: Rs 1,000 + 3-month licence disqualification (Section 194B)
+(5) Non-standard helmets (cricket helmet, construction helmet): Not valid
+
+### Seatbelt Rules (Section 194A, 194E)
+(1) Seatbelt is mandatory for:
+    (a) Driver of any four-wheeler vehicle
+    (b) Front seat passenger
+    (c) Rear seat passengers (mandatory since 2022 amendment enforcement)
+(2) Penalty for not wearing seatbelt:
+    (a) Driver: Rs 1,000 (Section 194A)
+    (b) Passengers: Rs 1,000 (Section 194E)
+(3) Exception: Vehicle manufactured without seatbelts (very old vehicles)
+(4) Child safety: Children under 12 years should sit in rear with seatbelt
+    - Child car seats recommended for children under 4 years
+
+## PART F — DRUNKEN DRIVING AND DRUG DRIVING
+
+### Legal Limits
+Blood Alcohol Concentration (BAC): Maximum 30 mg of alcohol per 100 ml of blood
+This is effectively near-zero tolerance (approximately 1 small drink may exceed this)
+For commercial/transport drivers: Zero tolerance in many states
+
+### Detection
+(a) Breathalyser (primary method): Police can stop any vehicle and conduct breathalyser test
+(b) Blood test: If breathalyser shows positive, blood sample collected
+(c) Clinical examination: By registered medical practitioner
+(d) Refusal to undergo test: Presumption of intoxication under Section 203
+
+### Penalties (Section 185)
+First offence: Fine up to Rs 10,000 AND/OR imprisonment up to 6 months
+Repeat offence (within 3 years): Fine up to Rs 15,000 AND/OR imprisonment up to 2 years
+Additional consequences:
+- Licence suspension/cancellation
+- Vehicle impoundment
+- If accident occurs under influence: Enhanced penalty under Section 184 (dangerous driving)
+- If death occurs under influence: Section 304A IPC (negligent homicide) + Section 185 MV Act
+
+### Drug Driving
+Same penalties as drunken driving under Section 185
+Includes: Cannabis, cocaine, opioids, amphetamines, benzodiazepines, and any intoxicating drug
+Detection: Urine test, blood test, clinical examination
+
+### State-Specific Enforcement
+- Delhi: Aggressive enforcement, especially during festivals (zero tolerance drives)
+- Mumbai: Regular checkpoints, breathalyser van deployment
+- Bangalore: Night-time checkpoints, especially on pub/restaurant zones
+- Chennai: Regular enforcement, court appearance required for repeat offenders
+- Hyderabad: Drive-through checkpoints, awareness campaigns
+Most states conduct special drives during: New Year, Diwali, Holi, weekends
+
+## PART G — SCHOOL ZONE AND CHILD SAFETY
+
+### School Bus Rules
+(a) School bus must be painted yellow
+(b) "SCHOOL BUS" written prominently on front and rear
+(c) Speed limit: 40 km/h at all times
+(d) Must have speed governor
+(e) First aid kit mandatory
+(f) Fire extinguisher mandatory
+(g) Driver must have: Valid HMV/HPMV licence, police verification, minimum 5 years driving experience
+(h) Female attendant mandatory on each school bus
+(i) GPS tracking mandatory
+(j) Emergency exit clearly marked
+(k) CCTV cameras recommended
+
+### Juvenile Driving (Section 199)
+(a) Minors (below 18 years) driving any motor vehicle is a serious offence
+(b) Parent/guardian of the minor: Fine Rs 25,000 + imprisonment up to 3 years
+(c) Owner of the vehicle: Same liability as guardian
+(d) Vehicle registration: Cancelled
+(e) Minor: Tried under Juvenile Justice Act
+(f) Insurance: Void — no coverage for accidents caused by minor drivers
+
+## PART H — HIGHWAY AND EXPRESSWAY RULES
+
+### National Highway Rules
+(a) Minimum speed: As posted (typically 60-80 km/h for cars)
+(b) Maximum speed: As posted (typically 100 km/h for cars)
+(c) No stopping on carriageway (use hard shoulder only for emergencies)
+(d) No reversing on highway
+(e) No U-turn except at designated locations
+(f) Use hazard lights when stopping on shoulder
+(g) Reflective triangles to be placed behind vehicle if breakdown (at least 50 metres behind)
+(h) No pedestrian movement on main carriageway
+(i) No crossing highway on foot (use foot over bridge/underpass)
+(j) Toll payment: Cash, FASTag (mandatory), or UPI
+
+### Expressway Rules (Additional)
+(a) FASTag mandatory for entry (no cash lane)
+(b) Minimum speed: 80 km/h (varies)
+(c) Maximum speed: 120 km/h (varies)
+(d) Certain vehicle types restricted: Tractors, animal-drawn vehicles, auto-rickshaws
+(e) Two-wheelers may be restricted or allowed based on engine capacity
+(f) Breakdown: Move vehicle to hard shoulder, use hazard lights, call highway helpline
+(g) Wrong-side driving on expressway: Severe penalty + licence suspension
+
+### FASTag
+(a) Mandatory for all four-wheelers using toll roads (since February 2021)
+(b) Electronic toll collection using RFID tag
+(c) Available from: Banks, Paytm, Amazon, dedicated offices at toll plazas
+(d) Linked to: Prepaid wallet or bank account
+(e) Penalty for not having FASTag: Double toll charged at toll plaza
+(f) Annual tag fee: Rs 100-200
+(g) Minimum balance requirement: Rs 100
+
+## PART I — EMERGENCY VEHICLE RULES
+
+### Right of Way (Section 194C)
+(1) ALL vehicles must give way to emergency vehicles:
+    (a) Ambulances
+    (b) Fire brigade vehicles
+    (c) Police vehicles on emergency duty
+    (d) Disaster management vehicles
+(2) Penalty for not giving way: Rs 10,000 (Section 194C)
+(3) How to give way:
+    (a) Slow down and move to the left
+    (b) If at intersection, do not block the path of emergency vehicle
+    (c) If on single-lane road, stop and allow emergency vehicle to pass
+
+### Blue Beacon/Siren
+Only authorised vehicles can use:
+(a) Red beacon: Emergency vehicles (ambulance, fire brigade)
+(b) Blue beacon: Police, military, authorised government vehicles
+(c) Use of unauthorized beacon/siren is an offence — fine Rs 5,000
+
+## PART J — ROAD ACCIDENT STATISTICS AND AWARENESS
+
+### Key Statistics (Ministry of Road Transport and Highways)
+(a) India accounts for approximately 11% of global road accident deaths
+(b) Major causes of road accidents:
+    - Overspeeding: ~70% of accidents
+    - Drunken driving: ~5% of fatal accidents
+    - Wrong-side driving: ~8% of accidents
+    - Distracted driving (mobile phone): ~3% of accidents
+    - Others (poor road condition, vehicle defects, weather): ~14%
+(c) Most vulnerable road users: Two-wheeler riders (37%), pedestrians (15%), cyclists
+(d) Peak accident hours: 6 PM to 9 PM (visibility transition + rush hour)
+
+### Road Safety Tips
+1. Always wear seatbelt (reduces fatality risk by 45-50%)
+2. Always wear helmet (reduces head injury risk by 70%)
+3. Never drink and drive
+4. Follow speed limits
+5. Maintain safe following distance (2-second rule; 4-second in rain)
+6. Do not use mobile phone while driving
+7. Check mirrors before changing lanes
+8. Use indicators/turn signals
+9. Be extra careful at intersections
+10. Be visible (use lights in low visibility conditions)
+11. Slow down in rain, fog, and poor visibility
+12. Take regular breaks on long drives (every 2-3 hours)
+13. Avoid driving when fatigued or drowsy
+14. Ensure vehicle is in good condition (brakes, tyres, lights)
+15. Keep first aid kit in vehicle

@@ -1,0 +1,24 @@
+{
+  "state": "Telangana",
+  "description": "Telangana follows central fine rates as per MV Act 2019 amendment",
+  "effective_date": "2019-09-01",
+  "source": "Telangana Transport Department",
+  "confidence": "high",
+  "notes": "Telangana adopts central fine rates. Hyderabad has advanced AI-based e-challan system.",
+  "sections": {
+    "177": { "offense": "General offenses", "first_offense": 500, "repeat": 1500, "imprisonment": null, "license_action": null, "notes": null },
+    "179": { "offense": "Disobedience of orders", "first_offense": 2000, "repeat": 4000, "imprisonment": "Up to 6 months", "license_action": null, "notes": null },
+    "181": { "offense": "Driving without licence", "first_offense": 5000, "repeat": null, "imprisonment": "Up to 3 months", "license_action": null, "notes": null },
+    "183": { "offense": "Exceeding speed limit (LMV)", "first_offense": 2000, "repeat": 4000, "imprisonment": null, "license_action": "Seizure of licence for repeat", "notes": "ANPR cameras on ORR and major highways" },
+    "184": { "offense": "Dangerous driving", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 6 months (first), up to 2 years (repeat)", "license_action": null, "notes": null },
+    "185": { "offense": "Drunken driving", "first_offense": 10000, "repeat": 15000, "imprisonment": "Up to 6 months (first), up to 2 years (repeat)", "license_action": "Suspension", "notes": "Regular checkpoints in Hyderabad" },
+    "192": { "offense": "Using vehicle without registration", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 1 year", "license_action": null, "notes": null },
+    "194": { "offense": "Driving without insurance", "first_offense": 2000, "repeat": 4000, "imprisonment": "Up to 3 months", "license_action": null, "notes": null },
+    "194A": { "offense": "Not wearing seatbelt", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": null, "notes": null },
+    "194B": { "offense": "Riding without helmet", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": "3-month suspension", "notes": null },
+    "194C": { "offense": "Not giving way to emergency vehicles", "first_offense": 10000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null },
+    "194D": { "offense": "Using mobile phone while driving", "first_offense": 5000, "repeat": 5000, "imprisonment": null, "license_action": null, "notes": "AI cameras detect mobile usage" },
+    "194F": { "offense": "Overloading two-wheeler", "first_offense": 2000, "repeat": 2000, "imprisonment": null, "license_action": "3-month suspension", "notes": null },
+    "199": { "offense": "Juvenile driving", "first_offense": 25000, "repeat": null, "imprisonment": "Up to 3 years", "license_action": "RC cancelled", "notes": null }
+  }
+}

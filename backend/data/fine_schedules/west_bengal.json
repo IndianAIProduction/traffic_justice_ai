@@ -1,0 +1,178 @@
+{
+  "state": "West Bengal",
+  "description": "West Bengal has the lowest fine rates in India — drastically reduced from central MV Act 2019",
+  "effective_date": "2019-11-01",
+  "source": "West Bengal Transport Department Notification",
+  "confidence": "high",
+  "notes": "West Bengal reduced fines by 80-90% from central rates. Lowest fine structure among all states.",
+  "sections": {
+    "177": {
+      "offense": "General offenses",
+      "first_offense": 100,
+      "repeat": 300,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 500/1500"
+    },
+    "177A": {
+      "offense": "Violation of road regulations",
+      "first_offense": 100,
+      "repeat": 300,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 500/1500"
+    },
+    "179": {
+      "offense": "Disobedience of orders / refusal to give information",
+      "first_offense": 500,
+      "repeat": 1000,
+      "imprisonment": "Up to 6 months",
+      "license_action": null,
+      "notes": "Reduced from central Rs 2000/4000"
+    },
+    "180": {
+      "offense": "Allowing unauthorised persons to drive",
+      "first_offense": 1000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Reduced from central Rs 5000"
+    },
+    "181": {
+      "offense": "Driving without valid driving licence",
+      "first_offense": 1000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Reduced from central Rs 5000"
+    },
+    "182": {
+      "offense": "Driving despite disqualification",
+      "first_offense": 5000,
+      "repeat": null,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Reduced from central Rs 10000"
+    },
+    "183": {
+      "offense": "Exceeding speed limit (LMV)",
+      "first_offense": 500,
+      "repeat": 1500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 2000/4000"
+    },
+    "183_heavy": {
+      "offense": "Exceeding speed limit (Heavy vehicles)",
+      "first_offense": 1000,
+      "repeat": 3000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 4000/8000"
+    },
+    "184": {
+      "offense": "Dangerous driving",
+      "first_offense": 1000,
+      "repeat": 3000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": null,
+      "notes": "Reduced from central Rs 5000/10000"
+    },
+    "185": {
+      "offense": "Drunken driving / driving under influence",
+      "first_offense": 2000,
+      "repeat": 3000,
+      "imprisonment": "Up to 6 months (first), up to 2 years (repeat)",
+      "license_action": "Suspension possible",
+      "notes": "Reduced from central Rs 10000/15000"
+    },
+    "186": {
+      "offense": "Driving when mentally or physically unfit",
+      "first_offense": 200,
+      "repeat": 500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 1000/2000"
+    },
+    "187": {
+      "offense": "Hit and run / failing to report accident",
+      "first_offense": null,
+      "repeat": null,
+      "imprisonment": "Up to 6 months (simple), up to 2 years (death)",
+      "license_action": null,
+      "notes": "Central rates apply for imprisonment and compensation"
+    },
+    "192": {
+      "offense": "Using vehicle without registration",
+      "first_offense": 2000,
+      "repeat": 5000,
+      "imprisonment": "Up to 1 year",
+      "license_action": null,
+      "notes": "Reduced from central Rs 5000/10000"
+    },
+    "194": {
+      "offense": "Driving without valid insurance",
+      "first_offense": 500,
+      "repeat": 1000,
+      "imprisonment": "Up to 3 months",
+      "license_action": null,
+      "notes": "Reduced from central Rs 2000/4000"
+    },
+    "194A": {
+      "offense": "Not wearing seatbelt (driver)",
+      "first_offense": 200,
+      "repeat": 500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 1000"
+    },
+    "194B": {
+      "offense": "Riding without helmet",
+      "first_offense": 200,
+      "repeat": 500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 1000. Suspension NOT applied."
+    },
+    "194C": {
+      "offense": "Not giving way to emergency vehicles",
+      "first_offense": 5000,
+      "repeat": 5000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 10000"
+    },
+    "194D": {
+      "offense": "Using mobile phone while driving",
+      "first_offense": 1000,
+      "repeat": 2000,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 5000"
+    },
+    "194E": {
+      "offense": "Not wearing seatbelt (passengers)",
+      "first_offense": 200,
+      "repeat": 500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 1000"
+    },
+    "194F": {
+      "offense": "Overloading two-wheeler",
+      "first_offense": 500,
+      "repeat": 500,
+      "imprisonment": null,
+      "license_action": null,
+      "notes": "Reduced from central Rs 2000"
+    },
+    "199": {
+      "offense": "Juvenile driving — guardian/owner liability",
+      "first_offense": 25000,
+      "repeat": null,
+      "imprisonment": "Up to 3 years for guardian",
+      "license_action": "Vehicle registration cancelled",
+      "notes": "Not reduced — central rate applies"
+    }
+  }
+}

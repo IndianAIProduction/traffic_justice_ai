@@ -1,0 +1,24 @@
+{
+  "state": "Andhra Pradesh",
+  "description": "Andhra Pradesh follows central fine rates as per MV Act 2019",
+  "effective_date": "2019-09-01",
+  "source": "AP Transport Department",
+  "confidence": "high",
+  "notes": "AP adopts central fine rates. E-challan active in major cities.",
+  "sections": {
+    "177": { "offense": "General offenses", "first_offense": 500, "repeat": 1500, "imprisonment": null, "license_action": null, "notes": null },
+    "179": { "offense": "Disobedience of orders", "first_offense": 2000, "repeat": 4000, "imprisonment": "Up to 6 months", "license_action": null, "notes": null },
+    "181": { "offense": "Driving without licence", "first_offense": 5000, "repeat": null, "imprisonment": "Up to 3 months", "license_action": null, "notes": null },
+    "183": { "offense": "Exceeding speed limit (LMV)", "first_offense": 2000, "repeat": 4000, "imprisonment": null, "license_action": "Seizure for repeat", "notes": null },
+    "184": { "offense": "Dangerous driving", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 6 months / 2 years", "license_action": null, "notes": null },
+    "185": { "offense": "Drunken driving", "first_offense": 10000, "repeat": 15000, "imprisonment": "Up to 6 months / 2 years", "license_action": "Suspension", "notes": null },
+    "192": { "offense": "No registration", "first_offense": 5000, "repeat": 10000, "imprisonment": "Up to 1 year", "license_action": null, "notes": null },
+    "194": { "offense": "No insurance", "first_offense": 2000, "repeat": 4000, "imprisonment": "Up to 3 months", "license_action": null, "notes": null },
+    "194A": { "offense": "No seatbelt", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": null, "notes": null },
+    "194B": { "offense": "No helmet", "first_offense": 1000, "repeat": 1000, "imprisonment": null, "license_action": "3-month suspension", "notes": null },
+    "194C": { "offense": "Not giving way to emergency vehicles", "first_offense": 10000, "repeat": 10000, "imprisonment": null, "license_action": null, "notes": null },
+    "194D": { "offense": "Mobile phone use", "first_offense": 5000, "repeat": 5000, "imprisonment": null, "license_action": null, "notes": null },
+    "194F": { "offense": "Overloading two-wheeler", "first_offense": 2000, "repeat": 2000, "imprisonment": null, "license_action": "3-month suspension", "notes": null },
+    "199": { "offense": "Juvenile driving", "first_offense": 25000, "repeat": null, "imprisonment": "Up to 3 years", "license_action": "RC cancelled", "notes": null }
+  }
+}

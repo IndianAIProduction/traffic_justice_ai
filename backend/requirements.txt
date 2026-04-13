@@ -1,0 +1,61 @@
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Pydantic
+pydantic[email]==2.10.4
+pydantic-settings==2.7.1
+
+# Database
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+alembic==1.14.1
+
+# Redis
+redis==5.2.1
+
+# LLM / AI
+openai==1.59.3
+langchain==0.3.14
+langchain-openai==0.3.0
+langchain-community==0.3.14
+langgraph==0.2.60
+langgraph-checkpoint-postgres==2.0.11
+psycopg[binary,pool]==3.2.4
+chromadb==0.5.23
+
+# Auth
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Security & encryption
+cryptography==44.0.0
+slowapi==0.1.9
+
+# HTTP client
+httpx==0.28.1
+
+# Playwright for portal automation
+playwright==1.49.1
+
+# Background tasks
+arq==0.26.1
+
+# Testing
+pytest==8.3.4
+pytest-asyncio==0.25.0
+factory-boy==3.3.1
+aiosqlite==0.20.0
+
+# PDF parsing (for legal corpus ingestion)
+pypdf==5.1.0
+
+# PDF generation (for complaint documents)
+fpdf2==2.8.2
+
+# Async SMTP (for email-based complaint submission)
+aiosmtplib==3.0.2
+
+# Utilities
+python-dateutil==2.9.0
