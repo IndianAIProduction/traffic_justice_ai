@@ -463,10 +463,16 @@ Open **`.env`** in an editor. You will fill secrets in Step 3.
 | **`JWT_SECRET_KEY`** | Signs login tokens (long random string) |
 | **`EVIDENCE_ENCRYPTION_KEY`** | Encrypts uploaded evidence files (Fernet key) |
 
-**JWT secret (Mac / Linux / Git Bash):**
+**JWT secret (Mac / Linux / Windows / Git Bash):**
 
 ```bash
 openssl rand -hex 32
+```
+
+or 
+
+```bash
+python -c "import secrets; print(secrets.token_hex(32))"
 ```
 
 **Fernet key (needs Python + cryptography once):**
